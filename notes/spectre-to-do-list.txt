@@ -1,0 +1,9 @@
+To do list:
+
+A- Relational:
+	1- relational ERD & schema.
+	2- implementation.
+	3- data population.
+
+B- MongoDB:
+C- Neo4j:
