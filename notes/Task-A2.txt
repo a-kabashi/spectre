@@ -1,4 +1,13 @@
 A- Relational:
-	2- implementation.
-		- python
-		- sql
+	2- implementation:
+		- tables creation:
+			
+		- python:
+		- sql:
+		
+		
+		
+		
+		
+		
+		mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/
