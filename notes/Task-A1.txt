@@ -1,6 +1,6 @@
 A- Relational:
 	1- relational ERD & schema:
-		- ERD:
+		- ENTITIES:
 			* agents.
 				- acode
 				- nationality
@@ -47,7 +47,7 @@ A- Relational:
 				- astype
 				- asmodel
 				- asstatus
-		- Schema:
+		- SCHEMA:
 			* agents.
 				- acode
 				- nationality
@@ -106,4 +106,3 @@ A- Relational:
 			* participate_in.
 				- acode
 				- mid
-	

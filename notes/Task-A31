@@ -1,0 +1,14 @@
+A- Relational:
+	3- data population:
+		python:
+			1- agents:
+			2- skills:
+			3- targets:
+			4- assets:
+			5- contacts:
+			6- secret_identities:
+			7- missions:
+			8- has:
+			9- participated_in:
+			10- used_in:
+			

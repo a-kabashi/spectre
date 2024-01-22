@@ -1,0 +1,18 @@
+A- Relational:
+	3- data population:
+		data:
+			1- agents:
+				with open('MOCK_DATA.csv', newline='') as csvfile:
+					reader = csv.reader(csvfile)
+					next(reader, None)
+					for row in reader:
+						print(f'INSERT INTO agents(fname, lname, dob, gender, nationality, security_level, agent_type, agent_status) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',{row[5]},\'{row[6]}\',\'{row[7]}\');')
+			2- skills:
+			3- targets:
+			4- assets:
+			5- contacts:
+			6- secret_identities:
+			7- missions:
+			8- has:
+			9- participated_in:
+			10- used_in:
