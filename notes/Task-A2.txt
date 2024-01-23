@@ -11,7 +11,7 @@ A- Relational:
 			nationality    VARCHAR(80),
 			security_level INT,
 			agent_type     VARCHAR(255),
-			agent_status         VARCHAR(50)
+			agent_status   VARCHAR(50)
 		);
 
 
