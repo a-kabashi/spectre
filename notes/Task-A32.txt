@@ -2,6 +2,8 @@ A- Relational:
 	3- data population:
 		data:
 			1- agents:
+				targets (0-19).CSV
+			2- skills:
 				INSERT INTO skills(skill_type, skill_level) VALUES('arabic',0);
 				INSERT INTO skills(skill_type, skill_level) VALUES('arabic',1);
 				INSERT INTO skills(skill_type, skill_level) VALUES('arabic',2);
@@ -200,8 +202,8 @@ A- Relational:
 				INSERT INTO skills(skill_type, skill_level) VALUES('legal acumen',3);
 				INSERT INTO skills(skill_type, skill_level) VALUES('legal acumen',4);
 				INSERT INTO skills(skill_type, skill_level) VALUES('legal acumen',5);
-			2- skills:
 			3- targets:
+				targets(0-9).CSV
 			4- assets:
 			5- contacts:
 			6- secret_identities:

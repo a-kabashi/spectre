@@ -17,6 +17,12 @@ A- Relational:
 						print(f'INSERT INTO skills(skill_type, skill_level) VALUES(\'{st}\',{sl});')
 			
 			3- targets:
+				import csv
+				with open('targets.csv', newline='') as csvfile:
+					reader = csv.reader(csvfile)
+					next(reader, None)
+					for row in reader:
+						print(f'INSERT INTO targets(ttype) VALUES(\'{row[0]}\');')
 			4- assets:
 			5- contacts:
 			6- secret_identities:
