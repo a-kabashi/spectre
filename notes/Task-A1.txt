@@ -45,7 +45,9 @@ A- Relational:
 			* assets.
 				- asid
 				- astype
+				- asmake
 				- asmodel
+				- astag
 				- asstatus
 		- SCHEMA:
 			* agents.
@@ -95,7 +97,9 @@ A- Relational:
 			* assets.
 				- asid
 				- astype
+				- asmake
 				- asmodel
+				- astag
 				- asstatus
 			* used_in.
 				- asid

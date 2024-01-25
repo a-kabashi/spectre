@@ -1,5 +1,6 @@
 A- Relational:
 2- implementation:
+
 --  	1- agents:
 
 		CREATE TABLE agents (
@@ -19,13 +20,13 @@ A- Relational:
 
 		CREATE TABLE skills (
 			skill_code   SERIAL PRIMARY KEY,
-			skill_type   VARCHAR(20),
+			skill_type   VARCHAR(255),
 			skill_level  INT
 		);
 
 
 --		3- targets:
-			
+		
 		CREATE TABLE targets (
 			tid           SERIAL PRIMARY KEY,
 			ttype         VARCHAR(60),
@@ -38,7 +39,9 @@ A- Relational:
 		CREATE TABLE assets (
 			asid     SERIAL PRIMARY KEY,
 			astype   VARCHAR(100),
+			asmake   VARCHAR(100),
 			asmodel  VARCHAR(255),
+			astag  VARCHAR(255),
 			asstatus VARCHAR(80)
 		);
 
