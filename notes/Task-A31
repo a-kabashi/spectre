@@ -24,12 +24,20 @@ A- Relational:
 					for row in reader:
 						print(f'INSERT INTO targets(ttype) VALUES(\'{row[0]}\');')
 			4- assets:
-				import csv
-				with open('assets.csv', newline='') as csvfile:
-					reader = csv.reader(csvfile)
-					next(reader, None)
-					for row in reader:
-						print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'vehicle\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
+				vehicles:
+					import csv
+					with open('assets.csv', newline='') as csvfile:
+						reader = csv.reader(csvfile)
+						next(reader, None)
+						for row in reader:
+							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'vehicle\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
+				weapons:
+					import csv
+					with open('assets_weapons.csv', newline='') as csvfile:
+						reader = csv.reader(csvfile)
+						next(reader, None)
+						for row in reader:
+							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'weapon\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
 			5- contacts:
 			6- secret_identities:
 			7- missions:

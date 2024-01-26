@@ -206,6 +206,7 @@ A- Relational:
 				targets(0-9).CSV
 			4- assets:
 				assets (0-9).CSV
+				assets_weapons (0-9).CSV
 			5- contacts:
 			6- secret_identities:
 			7- missions:
