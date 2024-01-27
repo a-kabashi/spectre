@@ -1,0 +1,1001 @@
+0,1,2,3
+supplier 3,summit,4A31K5DF4CE041066,undergoing testing
+supplier 3,cabin,19UUA65626A420619,in transit
+supplier 1,depot,1G6KD57Y06U970182,in development
+supplier 0,fortress,3TMJU4GN0AM063888,emergency standby
+supplier 2,nexus,1FM5K7B89FG058337,in transit
+supplier 1,shrine,2LMHJ5AR6BB039722,covert operation
+supplier 3,shrine,5UXWY3C59F0496838,undergoing training
+supplier 1,retreat,1N4AB7AP1EN695544,inactive
+supplier 2,cove,1C3CDFBB0ED487448,critical condition
+supplier 2,cove,SCBBR53W768309506,covert operation
+supplier 0,depot,1FTSW3B51AE789312,reserve
+supplier 3,nexus,1FTMF1EW3AF222238,awaiting deployment
+supplier 3,nexus,3FAHP0DC4AR894921,under repair
+supplier 3,isle,WAUEFAFL7EN733875,surveillance mode
+supplier 1,shelter,WVWBN7AN4FE659465,reassigned
+supplier 3,retreat,KMHHT6KD2AU069369,retired
+supplier 2,bastion,JN8AZ2NC2B9724672,temporary storage
+supplier 4,manor,5UXZV4C59CL296595,surveillance mode
+supplier 4,bastion,WBSVA93548E723324,under maintenance
+supplier 4,fortress,5FRYD3H43GB755413,undergoing testing
+supplier 1,shelter,1G6KS54Y11U928607,undergoing testing
+supplier 0,beacon,5UXFG8C59AL870095,surveillance mode
+supplier 1,frost,5NPDH4AEXEH395794,undergoing upgrades
+supplier 0,mirage,WBA3V7C53FP080468,lost in action
+supplier 0,depot,JH4CL96964C795878,temporary storage
+supplier 0,shelter,5UMBT93576L589594,undergoing testing
+supplier 0,isle,3GYFNEEY4AS816950,covert operation
+supplier 0,shrine,3N1BC1CPXCK096055,under evaluation
+supplier 0,nexus,WAUSGAFC5CN566588,critical condition
+supplier 1,hideaway,WAULH54B81N429063,under evaluation
+supplier 0,cabin,JH4CL96895C012710,under repair
+supplier 2,manor,1G6YX36D895265861,under repair
+supplier 4,beacon,JA4AS2AW6BU707929,under repair
+supplier 1,tower,1N6AD0CU9FN011420,critical condition
+supplier 0,summit,WA1DKAFP4CA635771,reserve
+supplier 3,frost,1N4AB7AP8EN152370,under evaluation
+supplier 1,hideaway,1N4AA5AP2AC541812,emergency standby
+supplier 1,shelter,NM0AE8F78E1478464,surveillance mode
+supplier 0,mirage,WBALZ3C58CC573398,undergoing training
+supplier 2,shelter,1G6AJ5SX2E0602627,standby
+supplier 4,homestead,1GT3CZBG0AF619442,under maintenance
+supplier 3,nexus,WBAUT93599A560656,in transit
+supplier 3,isle,KMHDB8AE6AU771766,under evaluation
+supplier 1,retreat,1GYS4HEF5ER771527,under analysis
+supplier 4,summit,WBAWB73598P615991,under maintenance
+supplier 2,beacon,3N1CN7AP4FL832829,recalled
+supplier 1,mirage,19XFA1E38BE644601,retired
+supplier 1,beacon,19XFA1E30AE566295,under analysis
+supplier 2,bastion,1GYS3CKJ1FR752618,inactive
+supplier 1,fortress,3VW517AT7FM351639,in transit
+supplier 0,hideaway,1D4PT4GX5BW742378,in development
+supplier 0,shrine,1GKUCHE08AR565954,reassigned
+supplier 0,isle,1G6AL5SX3D0327357,surveillance mode
+supplier 3,retreat,5YMGZ0C51BL233017,awaiting deployment
+supplier 4,cabin,1G6DU6EV3A0380520,retired
+supplier 3,cove,WBAKA8C53AC067779,temporary storage
+supplier 3,frost,JHMZF1D69ES393503,reassigned
+supplier 4,bastion,1GYUCGEF9AR532689,undergoing upgrades
+supplier 1,hideaway,WA1CM94L69D120427,recalled
+supplier 3,depot,WBSWD9C58AP509667,critical condition
+supplier 2,vault,WBAPN7C57BF521259,under analysis
+supplier 3,homestead,JM3TB2MAXA0474553,reassigned
+supplier 2,beacon,3C4PDDBG7ET335819,recalled
+supplier 4,cove,3N1CE2CP8FL769086,covert operation
+supplier 0,cabin,WP0AA2A8XEK506271,undergoing training
+supplier 4,homestead,WBABW334X4P946348,in transit
+supplier 1,hideaway,1GKS1FEJ8CR142465,covert operation
+supplier 1,depot,1GD422CG7EF737065,undergoing training
+supplier 4,frost,KNAFX5A81E5458130,covert operation
+supplier 0,cabin,5N1AA0NC0BN915260,reassigned
+supplier 3,tower,4F2CY0C76BK501593,retired
+supplier 2,lodge,3D73Y4CL8AG308605,destroyed
+supplier 0,vault,1G4HP54K02U832761,surveillance mode
+supplier 4,tower,1FTMF1EW9AK497331,reassigned
+supplier 0,homestead,JN8AZ2KRXCT504211,retired
+supplier 2,tower,JN8AF5MV3FT146040,inactive
+supplier 2,bastion,1G4HJ5EM5AU757622,in transit
+supplier 4,summit,5FRYD4H64GB265389,retired
+supplier 4,summit,3VW517AT3FM333638,reassigned
+supplier 2,cabin,WAUHE98P89A324473,covert operation
+supplier 2,hideaway,WBY2Z2C5XFV138155,inactive
+supplier 3,manor,WBA3B9C51FF662224,in development
+supplier 4,retreat,JH4CU25659C036240,temporary storage
+supplier 1,cabin,1N6AD0CW0EN205642,in transit
+supplier 0,cabin,3C4PDCBB8ET090298,recalled
+supplier 1,cove,3D73M3CL6BG885513,under analysis
+supplier 4,hideaway,1FTWW3DYXAE286483,in development
+supplier 3,lodge,WAUEF78E47A117871,critical condition
+supplier 1,shrine,1GYS3BEF6BR572675,undergoing training
+supplier 4,nexus,1FTEW1CF2FK527333,surveillance mode
+supplier 4,summit,WA1DGBFE4DD161634,temporary storage
+supplier 4,cove,WAUML44E66N847684,in development
+supplier 4,tower,YV1952AS7E1644224,destroyed
+supplier 3,beacon,WBA3B5C53EF708014,awaiting deployment
+supplier 3,vault,WBAAZ33445K183616,undergoing training
+supplier 3,depot,JN8AZ1MU7DW197365,temporary storage
+supplier 1,homestead,KMHEC4A49EA375873,active
+supplier 4,summit,1FMCU0E71AK749721,inactive
+supplier 0,depot,WBALL5C56EE416733,in transit
+supplier 4,beacon,3GYFNDEY5AS570288,critical condition
+supplier 4,frost,JN1AZ4EH0DM891490,active
+supplier 0,retreat,1D7CW3BK1AS354715,reassigned
+supplier 3,bastion,WAUPEAFM2CA412447,undergoing testing
+supplier 1,summit,KNAFK4A68E5534451,under maintenance
+supplier 4,fortress,JN1CV6EK4FM632144,awaiting deployment
+supplier 0,tower,JA4AS3AW0DU691509,under maintenance
+supplier 3,retreat,WAUDFBFC5CN638696,critical condition
+supplier 0,homestead,3C6JD7EP2CG342760,temporary storage
+supplier 1,cabin,1GKS2FEJ4DR813029,reassigned
+supplier 1,vault,WAUHF78P77A531774,awaiting deployment
+supplier 4,nexus,WBAUC7C53AV620822,undergoing testing
+supplier 3,manor,WAUKH78E98A728221,reserve
+supplier 1,fortress,SCBBP9ZA5DC230807,retired
+supplier 0,shelter,2HNYD18451H257117,active
+supplier 1,bastion,WBAUN7C52DV496217,undergoing upgrades
+supplier 0,fortress,JN1AV7APXFM028239,under maintenance
+supplier 4,cabin,JH4CU2F41CC349225,covert operation
+supplier 2,depot,19UUA56822A935284,awaiting deployment
+supplier 4,shelter,5UXFG43578L497674,inactive
+supplier 0,summit,5TDDK3DC4CS601365,undergoing upgrades
+supplier 1,summit,5UXZV4C5XDL233460,destroyed
+supplier 1,vault,SAJWA6FC6E8073041,reserve
+supplier 2,lodge,JTMHY7AJ3A5470362,under evaluation
+supplier 4,summit,JTHBE1BL3FA806164,in development
+supplier 0,frost,WBA3C3C57EP043212,in development
+supplier 1,mirage,1GD11XEG4FF630427,under analysis
+supplier 4,shrine,KM8NU4CC1CU158704,destroyed
+supplier 4,frost,JH4CU2F66AC363149,retired
+supplier 2,depot,WBAVT13566K554860,covert operation
+supplier 4,lodge,WBAKG1C56CE371749,awaiting deployment
+supplier 4,tower,1FTEX1CM0BK824090,lost in action
+supplier 3,summit,WBALX3C57CC389155,destroyed
+supplier 4,vault,3GYFK66N65G527631,recalled
+supplier 3,fortress,JM1NC2LF1F0774419,active
+supplier 0,cabin,1N4AL3AP9EC504311,awaiting deployment
+supplier 2,bastion,JN8AZ2KR2BT263260,in transit
+supplier 1,manor,JA4AP3AU0CZ057800,critical condition
+supplier 1,vault,1FMCU0D73AK215475,undergoing training
+supplier 0,beacon,5TDBK3EH0AS925850,in transit
+supplier 3,homestead,SCFFBCCD1AG186193,covert operation
+supplier 4,cove,JHMZF1C61FS932151,recalled
+supplier 4,isle,4T1BD1EB1FU108508,temporary storage
+supplier 1,cabin,1GD02ZCG8EF138635,destroyed
+supplier 2,homestead,WBA3T3C52EP858627,undergoing training
+supplier 2,shrine,JTDKDTB33C1590943,critical condition
+supplier 3,bastion,1G6KA5EY6AU230639,in transit
+supplier 4,cabin,JH4CL96995C932930,reassigned
+supplier 4,homestead,2HNYB1H64CH099427,in development
+supplier 1,depot,2T1BURHEXFC355936,recalled
+supplier 0,summit,3D7TP2CT2BG117299,in transit
+supplier 2,lodge,WBA6B4C55FD075262,critical condition
+supplier 1,retreat,JH4KA96624C774064,active
+supplier 1,nexus,2CTALBEW2A6683434,lost in action
+supplier 1,tower,JH4DC23141S571603,undergoing testing
+supplier 4,depot,5YMKW8C55F0607735,under evaluation
+supplier 1,mirage,KNADH4A33A6316031,standby
+supplier 3,fortress,WBAYF8C55ED034410,in transit
+supplier 3,depot,WAUDG94F65N430719,undergoing training
+supplier 1,lodge,1GD022CG8CZ225342,reserve
+supplier 1,fortress,WAUKH78E28A837040,emergency standby
+supplier 2,shrine,3N1AB7APXFL138078,retired
+supplier 2,shrine,WDDLJ6FB3FA457268,covert operation
+supplier 3,shrine,5LMCJ1A90FU582463,covert operation
+supplier 4,hideaway,WAUFFAFC7EN116867,destroyed
+supplier 4,tower,SAJWA0FA7AH248029,critical condition
+supplier 0,homestead,YV4952CF9E1950988,awaiting deployment
+supplier 0,retreat,3VW1K7AJ5EM518394,reserve
+supplier 4,shelter,1N6AA0CC7DN317335,temporary storage
+supplier 1,mirage,4T1BF1FK0EU711862,reassigned
+supplier 1,manor,1N6AD0CUXCN267514,inactive
+supplier 4,summit,5N1AN0NU0CN542994,recalled
+supplier 0,shelter,5N1AR2MM2DC685671,undergoing training
+supplier 2,manor,WBABV13454J339428,inactive
+supplier 2,summit,JN1CV6AP5AM897813,emergency standby
+supplier 3,homestead,1N6AD0CU9DN799306,undergoing upgrades
+supplier 4,mirage,1G6AX5SX6F0345150,in transit
+supplier 3,tower,JH4KA96623C076729,awaiting deployment
+supplier 4,tower,WAUDF58E55A090502,recalled
+supplier 0,cove,1G6DX67D780361846,retired
+supplier 0,cabin,WAUAKAFB6AN423972,inactive
+supplier 2,cove,WBA5B3C50ED272943,under evaluation
+supplier 0,isle,WBAKF9C58CE396640,active
+supplier 2,bastion,1FMJU1K58AE061018,reassigned
+supplier 0,fortress,SCFFDCCD4CG655953,undergoing training
+supplier 2,fortress,5N1AN0NW4EN906631,under maintenance
+supplier 2,shelter,WAUBFAFL8AN314754,under maintenance
+supplier 1,cove,ZHWGU5BZ4CL000623,awaiting deployment
+supplier 0,homestead,WBANU5C58AB597562,undergoing upgrades
+supplier 1,shrine,TRURD38J591289237,under evaluation
+supplier 2,frost,1GTN1UEH4FZ387603,inactive
+supplier 3,summit,SCBCR73W38C165212,emergency standby
+supplier 2,fortress,2T1KE4EE6DC922256,in transit
+supplier 3,nexus,1N6AD0CU1AC172011,undergoing training
+supplier 0,cove,WBANN73567B903899,undergoing testing
+supplier 4,cove,1N6AA0EC8DN998795,in development
+supplier 0,fortress,WBAET37483N066422,temporary storage
+supplier 2,nexus,YV4902NB8F1818430,recalled
+supplier 1,cabin,WAUEFAFL2EN887958,temporary storage
+supplier 4,nexus,WVWGU7AN0CE196762,reassigned
+supplier 2,bastion,2B3CK3CV9AH734280,retired
+supplier 4,tower,1C4SDJCT3DC964671,reserve
+supplier 4,mirage,1HGCR6F34EA240582,temporary storage
+supplier 2,retreat,KMHHT6KJ6FU788329,under evaluation
+supplier 0,shelter,WAUKH98E47A977441,under maintenance
+supplier 1,shelter,1GD312CG6DF902813,covert operation
+supplier 4,hideaway,WBAPK5C55BF828720,recalled
+supplier 1,frost,WAUMGAFL4AA641908,temporary storage
+supplier 2,manor,WVWAP7AN7EE541141,under maintenance
+supplier 0,beacon,2LMHJ5AT5CB170704,recalled
+supplier 1,fortress,KNDMG4C78C6203331,undergoing training
+supplier 0,manor,JH4CL95835C993652,under maintenance
+supplier 0,lodge,3D73Y3CLXAG384630,undergoing upgrades
+supplier 3,summit,JN1CV6AP2BM447778,temporary storage
+supplier 4,isle,WDDDJ7CB5BA704394,awaiting deployment
+supplier 0,mirage,3GTU2YEJ0DG302398,destroyed
+supplier 0,mirage,WAUDH78E48A793437,awaiting deployment
+supplier 1,cabin,JHMZF1D68ES388017,retired
+supplier 2,retreat,SCFEBBAK6CG201751,destroyed
+supplier 2,cabin,WBA3B9G52FN365091,retired
+supplier 0,summit,1N6AD0CU5EN311437,covert operation
+supplier 0,shrine,3D73M4CL1BG837097,undergoing testing
+supplier 0,frost,3C6TD4DT1CG061197,inactive
+supplier 3,mirage,3D7TT2HT1BG140125,reassigned
+supplier 3,shelter,JN1CV6FE8BM949427,in development
+supplier 0,cabin,KMHFG4JG8DA582076,covert operation
+supplier 4,summit,137ZA84331E982993,retired
+supplier 4,isle,1C4SDJCT5FC978624,in transit
+supplier 1,fortress,KNALN4D72F5712435,recalled
+supplier 2,manor,3GYFNAE34ES392592,awaiting deployment
+supplier 3,hideaway,3FAHP0DC5AR679807,undergoing training
+supplier 4,beacon,5XXGM4A75FG237449,covert operation
+supplier 4,summit,WAUGGAFR9DA192537,covert operation
+supplier 0,manor,3GYFNGE39DS973264,recalled
+supplier 4,shelter,JTDKDTB3XE1334740,under repair
+supplier 0,retreat,WBALW3C55CC985710,undergoing training
+supplier 4,mirage,JN1CV6AP2AM647560,reserve
+supplier 2,vault,5UXFG43539L834018,under repair
+supplier 1,nexus,WBA3B9C58FJ546385,covert operation
+supplier 0,isle,5J6TF1H33EL259176,undergoing upgrades
+supplier 2,isle,JTDZN3EU7FJ991058,inactive
+supplier 4,nexus,WBABV13465J858148,surveillance mode
+supplier 1,hideaway,1N6AD0CU9AC696068,lost in action
+supplier 1,shrine,WAUSF98K89A192080,undergoing training
+supplier 4,cabin,5N1AT2MK3EC954830,awaiting deployment
+supplier 4,summit,3VWKX8AJ5BM197058,retired
+supplier 4,shrine,WAUBF78E96A877022,in transit
+supplier 4,homestead,WBAYE0C51ED679219,under analysis
+supplier 0,depot,WAUFFAFCXDN081451,temporary storage
+supplier 0,nexus,WAUCFAFR4BA980608,lost in action
+supplier 3,tower,1D4PT7GX5BW468178,active
+supplier 4,cabin,WBAPK73549A430935,under repair
+supplier 3,cabin,WP0CB2A8XFK872741,temporary storage
+supplier 2,cove,KMHTC6AD4EU413172,standby
+supplier 3,tower,WA1VMBFE2DD246551,retired
+supplier 1,hideaway,WBANF335X6B314746,under repair
+supplier 3,tower,1FTKR1AD4BP643030,awaiting deployment
+supplier 0,shelter,5J8TB182X8A488500,destroyed
+supplier 1,hideaway,WA1MMBFE9AD019865,under maintenance
+supplier 3,fortress,2C3CDXEJXEH476646,in transit
+supplier 0,depot,WBAPN73589A112694,temporary storage
+supplier 3,cove,WAUAFAFH2EN220866,standby
+supplier 0,manor,3D73Y4HL7AG590468,critical condition
+supplier 4,beacon,1C6RD7KP7CS690859,in development
+supplier 3,cove,1C3BCBGG6EN717757,lost in action
+supplier 4,manor,WP0AA2A91BS496329,critical condition
+supplier 0,tower,1G6DW677260826799,destroyed
+supplier 4,summit,KNDJN2A20F7404496,reassigned
+supplier 3,isle,WBAPH73539E522514,recalled
+supplier 1,homestead,1C6RD6GP1CS662445,reassigned
+supplier 2,cove,WAUMFAFL2AA193722,surveillance mode
+supplier 4,isle,WVWAN7AN4EE314009,reassigned
+supplier 1,depot,19XFA1E37AE959629,reserve
+supplier 0,manor,WBAEV53414K181233,standby
+supplier 4,vault,WBADT53412C006442,covert operation
+supplier 0,tower,WDDGF4HBXEG983736,covert operation
+supplier 0,beacon,WAUMFAFL5CN401426,active
+supplier 0,lodge,SALSF2D44BA682984,surveillance mode
+supplier 4,isle,3D7TP2CT1AG641350,surveillance mode
+supplier 4,frost,JHMGE8G37CC652467,awaiting deployment
+supplier 3,frost,WAULT68E34A131301,covert operation
+supplier 0,fortress,WA1DGBFE2BD017416,under evaluation
+supplier 3,shrine,WAUEF78E48A972958,standby
+supplier 3,frost,JN1AZ4EH2AM812087,undergoing training
+supplier 1,nexus,1VWAH7A34CC176905,under repair
+supplier 0,nexus,WDBSK7BAXCF519574,reserve
+supplier 4,mirage,WVGEP9BP9FD425178,under analysis
+supplier 2,lodge,WBAEN33402P569736,awaiting deployment
+supplier 1,retreat,SALFR2BN7BH950969,active
+supplier 4,frost,1G6DV5EP9B0601046,standby
+supplier 3,cove,5J6TF1H30CL056744,retired
+supplier 1,nexus,WAUEH94F56N061113,recalled
+supplier 0,shrine,WBAXA5C57FD138407,emergency standby
+supplier 3,frost,WA1VMAFE6BD524780,covert operation
+supplier 0,tower,WAUEFAFL0FA990546,under maintenance
+supplier 0,hideaway,3C4PDCAB9FT660943,under repair
+supplier 4,homestead,KMHHT6KD0CU879490,retired
+supplier 2,cove,1G6DU6EV0A0924181,under repair
+supplier 1,retreat,1B3CB2HA6AD911655,retired
+supplier 3,nexus,WA1EY74L88D498118,undergoing testing
+supplier 0,mirage,3C63DPJL2CG718787,critical condition
+supplier 2,manor,1GYFK53299R897790,emergency standby
+supplier 2,cabin,WAUDV94F88N460556,standby
+supplier 4,hideaway,1G6AB5RA8F0837601,critical condition
+supplier 1,shelter,WBAPM73539E745647,undergoing testing
+supplier 1,vault,JM1NC2EF0A0461027,in development
+supplier 3,shrine,3N1AB7AP5FY593729,under evaluation
+supplier 1,mirage,WVWGD7AJ0EW375118,surveillance mode
+supplier 1,isle,WAULD64B93N385319,temporary storage
+supplier 4,bastion,WBA3D5C58EF954793,in development
+supplier 2,beacon,WDDHH8JB8FB186979,standby
+supplier 3,manor,1FMHK7B81CG781852,lost in action
+supplier 1,vault,19VDE1F33FE684433,recalled
+supplier 3,isle,1G6AH5R39F0946620,covert operation
+supplier 3,tower,JH4DB75661S678614,covert operation
+supplier 1,lodge,1GYS3JEF3CR957736,undergoing training
+supplier 4,cabin,1GYS4JEF7CR582219,critical condition
+supplier 3,tower,KNDMG4C35A6472977,retired
+supplier 2,homestead,5N1AZ2MH6FN364288,under analysis
+supplier 2,cove,SALFP2BN6BH685208,destroyed
+supplier 4,lodge,SCBZK22E52C415616,reserve
+supplier 1,shrine,1C3CDFBA4DD804315,inactive
+supplier 2,summit,SCFAD02A37G462652,lost in action
+supplier 0,nexus,WBAPT73518C080339,undergoing training
+supplier 1,frost,1G6AH1RX7F0538872,reassigned
+supplier 3,lodge,WBSBR93443P942820,undergoing testing
+supplier 1,shelter,KNDJT2A55D7663949,retired
+supplier 0,cabin,5UXFB335X2L848982,under evaluation
+supplier 0,frost,WA1CMAFP7FA474326,under maintenance
+supplier 2,fortress,5NPDH4AE8EH286086,retired
+supplier 2,nexus,WA1YD64B33N048907,under repair
+supplier 2,frost,2LMDJ6JK7EB973397,under repair
+supplier 1,frost,WBA3A5G54CN497762,reassigned
+supplier 0,summit,1G4HK5E97AU532014,lost in action
+supplier 4,shrine,KM8NU4CC1BU801972,recalled
+supplier 1,frost,JTDJTUD34ED715239,under repair
+supplier 1,shrine,3VW217AU4FM866593,destroyed
+supplier 2,retreat,3VWML7AJ9CM332879,under maintenance
+supplier 4,tower,1G6DH5EG2A0974421,critical condition
+supplier 2,homestead,KMHEC4A46FA124312,surveillance mode
+supplier 2,bastion,1GT020CG6EF631097,undergoing training
+supplier 2,summit,WVGEF9BP0FD203423,undergoing training
+supplier 2,shelter,WA1LGBFE1FD420384,undergoing testing
+supplier 0,depot,WAULT54B43N402363,in transit
+supplier 0,mirage,3GYFNHE3XDS408902,destroyed
+supplier 1,mirage,1GTN1UEH4EZ860687,reserve
+supplier 0,tower,WP0AA2A99FS001297,in development
+supplier 2,retreat,1GD22ZCG1DZ084830,awaiting deployment
+supplier 4,cove,19XFB2F26CE906500,recalled
+supplier 1,frost,1G6AY5S36E0105329,active
+supplier 4,shrine,1GT020CG1EF774541,undergoing training
+supplier 1,retreat,3D73M4CL9AG475289,emergency standby
+supplier 1,cove,1D7RW2GKXAS649437,standby
+supplier 2,fortress,WAULT58E73A260554,critical condition
+supplier 2,summit,3VW1K7AJ5CM654005,in transit
+supplier 4,cove,KMHTC6AD6EU051037,under analysis
+supplier 2,cove,WAUAFAFH7BN657368,emergency standby
+supplier 1,homestead,WAUDF98E37A670812,emergency standby
+supplier 4,nexus,KMHHT6KJ7FU417504,under analysis
+supplier 3,cove,1N6AF0KY4FN384556,undergoing testing
+supplier 1,frost,WAUDH98E46A661836,inactive
+supplier 2,fortress,WBADX1C54CJ229691,active
+supplier 0,cabin,2T1BU4EE7DC641635,undergoing upgrades
+supplier 0,retreat,1G6DA5EYXB0653595,destroyed
+supplier 1,vault,WBAWC73599E566348,surveillance mode
+supplier 4,mirage,19UYA42773A211178,under analysis
+supplier 4,lodge,WBAPH7C50AA277909,covert operation
+supplier 2,shelter,SAJWA4FB2CL759468,under analysis
+supplier 3,summit,1HGCR6F56EA909372,under repair
+supplier 0,hideaway,JH4DC548X4S320313,emergency standby
+supplier 2,frost,WBA6A0C57ED104836,under repair
+supplier 1,manor,2G4WB55K611539591,reserve
+supplier 1,vault,1G4HR54KX3U234107,emergency standby
+supplier 0,lodge,2C3CDXCT6CH107641,undergoing testing
+supplier 1,bastion,WAUKD78P67A289653,under analysis
+supplier 3,hideaway,JTHBE1BL5F1781932,standby
+supplier 4,summit,1FTEW1CW5AK719564,surveillance mode
+supplier 3,nexus,WBAEV33444P747988,temporary storage
+supplier 2,cabin,SAJWA0EX7E8387654,awaiting deployment
+supplier 3,beacon,5LMJJ3J53CE404780,under analysis
+supplier 3,shrine,SCFLDCFP5EG762876,recalled
+supplier 4,isle,WA1GFCFS4FR257698,covert operation
+supplier 1,frost,JH4KA965X3C454044,retired
+supplier 3,summit,5N1AA0NE2FN229678,emergency standby
+supplier 3,cabin,YV4902DZ3C2865188,reserve
+supplier 2,fortress,JN8AZ2KR8AT417405,reserve
+supplier 2,retreat,WA1VMAFP6EA525080,emergency standby
+supplier 1,tower,1N6AA0CC0CN135099,under repair
+supplier 1,tower,1FTWX3B51AE875136,active
+supplier 4,bastion,1G6AH5RX8D0744271,awaiting deployment
+supplier 0,shrine,3D7TT2CT7BG085610,surveillance mode
+supplier 4,cabin,2C3CA7CW6AH140221,in transit
+supplier 3,summit,WAUHF78P38A887611,in development
+supplier 3,homestead,1FMJK1H5XCE865322,under analysis
+supplier 4,cabin,2T3BFREV2FW245273,inactive
+supplier 0,vault,1GYFK63898R489671,lost in action
+supplier 4,tower,WAUDT74F05N590062,under repair
+supplier 0,frost,WAUBGAFC0CN394518,under maintenance
+supplier 3,summit,KNADM5A39D6079776,reserve
+supplier 2,cabin,WVGEF9BP5ED600091,temporary storage
+supplier 1,cove,SALVP1BG2FH577262,temporary storage
+supplier 0,cabin,WA1VKAFP7AA716183,surveillance mode
+supplier 0,fortress,WBAPT7C50AC156073,recalled
+supplier 3,summit,YV426MDA6F2144681,reassigned
+supplier 4,bastion,1FTEW1CW3AF707776,critical condition
+supplier 1,tower,5N1AA0NE0FN476908,in transit
+supplier 2,hideaway,SALVP1BG1EH292146,temporary storage
+supplier 0,summit,YV1902AHXD1333727,retired
+supplier 4,shrine,KMHGC4DD2CU080601,reserve
+supplier 0,retreat,JHMZF1C64ES649435,undergoing training
+supplier 3,lodge,JN1CV6EK4EM936833,under maintenance
+supplier 3,homestead,1ZVBP8JZ2E5844967,temporary storage
+supplier 4,cove,1FTEX1E85AK653979,under evaluation
+supplier 1,bastion,KNAFT4A26A5069429,under evaluation
+supplier 2,mirage,SCFAD01A35G459071,under repair
+supplier 1,shelter,3GTU2YEJ6CG410488,destroyed
+supplier 3,nexus,WDDHF2EB4CA426110,inactive
+supplier 0,summit,WUARL48HX8K310689,inactive
+supplier 0,isle,1N6AD0CU8AC419895,active
+supplier 2,frost,WAUGVAFR3CA889612,standby
+supplier 2,summit,3VWKP7AJ3CM062558,inactive
+supplier 2,mirage,1B3CB1HA8AD394224,under repair
+supplier 3,nexus,WA1CMAFP1EA482064,under maintenance
+supplier 3,nexus,2C3CCAKTXCH208456,undergoing testing
+supplier 3,retreat,3D73Y4CL3BG988382,under evaluation
+supplier 1,bastion,2G61N5S3XF9342390,surveillance mode
+supplier 1,retreat,JN1BY1PR9FM072766,undergoing upgrades
+supplier 1,mirage,KMHCT4AE9EU188521,retired
+supplier 2,cabin,WBABS33483P702613,undergoing testing
+supplier 0,hideaway,WBSDE93453C718662,reserve
+supplier 4,summit,2C3CDYAG5CH731894,reassigned
+supplier 0,cabin,19UUA9F57DA397035,undergoing testing
+supplier 1,cove,KMHHT6KDXBU441705,under repair
+supplier 1,summit,WP1AA2A29EL650203,active
+supplier 1,shelter,JM1GJ1T64F1410594,under repair
+supplier 4,cove,WBAYA8C54ED456487,awaiting deployment
+supplier 1,frost,5UMDU93457L295531,reserve
+supplier 3,frost,YV126MFD8F2290066,awaiting deployment
+supplier 1,retreat,3D7TT2CT4BG867279,under analysis
+supplier 0,frost,1G6DL5ED6B0054927,lost in action
+supplier 2,lodge,1N6AA0CA9EN319104,recalled
+supplier 1,retreat,JTDKTUD3XED164450,recalled
+supplier 4,fortress,1N4AL3AP9EC505801,inactive
+supplier 4,depot,WBAUN1C56AV112139,reassigned
+supplier 4,tower,1GYS3KEF8DR368592,reserve
+supplier 4,retreat,WAUML44E45N179382,retired
+supplier 0,shrine,WBAEK73415B728328,covert operation
+supplier 2,depot,WAUDG74F25N381586,retired
+supplier 4,retreat,YV140MEB0F1650270,in transit
+supplier 3,cove,JH4NA21634T242222,undergoing training
+supplier 3,manor,1FM5K7B87FG372276,in transit
+supplier 4,tower,4T1BF3EK8BU851876,lost in action
+supplier 4,isle,5XYKT3A10CG626073,in development
+supplier 2,shrine,WBAHN03577D115657,lost in action
+supplier 4,frost,2T1BURHE4FC837141,reserve
+supplier 1,isle,SALFP2BN8BH584297,emergency standby
+supplier 4,nexus,WAUUL58E85A663871,under repair
+supplier 1,summit,3D7TT2CT5BG505221,covert operation
+supplier 4,tower,1G4HP54K05U721700,standby
+supplier 0,shelter,WAUDF78E76A805938,reserve
+supplier 4,beacon,1G6KE54Y41U985598,undergoing testing
+supplier 2,lodge,2B3CJ4DV1AH579005,temporary storage
+supplier 2,isle,WA1YL64B54N930570,critical condition
+supplier 3,retreat,WDDHF2EBXBA046123,standby
+supplier 2,nexus,WAUFFAFL3CN780371,under analysis
+supplier 0,fortress,1FTWX3D54AE430886,active
+supplier 1,cove,1C4RDHDG6DC920995,critical condition
+supplier 2,frost,JTEBU5JR9F5613197,under repair
+supplier 2,cabin,1G4HR54K12U980976,active
+supplier 3,shrine,WAUEKBFB7BN403643,emergency standby
+supplier 0,shelter,1G4HF57968U939396,standby
+supplier 4,shelter,1G6KP5E93AU092033,lost in action
+supplier 2,vault,1FBNE3BL5CD422103,undergoing training
+supplier 3,summit,3GYFNGEY7BS751380,recalled
+supplier 1,shrine,NM0AS8F71E1852311,under analysis
+supplier 0,cove,WAUEH78E28A568616,inactive
+supplier 2,cabin,WDDGF5EB8AR036462,reassigned
+supplier 2,nexus,3VW467AT2CM393564,under evaluation
+supplier 3,tower,1N4AB7AP1EN825936,destroyed
+supplier 3,shrine,1G4GL5E30DF695763,in development
+supplier 2,shrine,WBA3C1C52CF981531,emergency standby
+supplier 3,tower,1FMNE1BW0AD388641,under repair
+supplier 3,tower,1G6DD67V780839748,in transit
+supplier 1,tower,WBAVA33528P531972,retired
+supplier 4,retreat,2C3CCABG1FH650470,under analysis
+supplier 4,summit,1GYS3BEF2DR383752,undergoing testing
+supplier 2,homestead,KMHHT6KD3BU709560,surveillance mode
+supplier 3,tower,4T1BF3EK2AU155450,destroyed
+supplier 1,hideaway,1G6DF577590173044,destroyed
+supplier 3,bastion,5GALVBED4AJ621177,covert operation
+supplier 0,bastion,1FTWW3B50AE730964,recalled
+supplier 3,shrine,2D4RN7DG4BR126012,awaiting deployment
+supplier 0,shelter,VNKKTUD36FA017410,reassigned
+supplier 0,nexus,WP0AB2A88FK929218,retired
+supplier 4,tower,WA1AM74L69D405625,destroyed
+supplier 4,shelter,WAUKD78P07A642887,surveillance mode
+supplier 4,vault,3FA6P0PU9FR511817,undergoing upgrades
+supplier 0,summit,4T1BF1FK2EU005895,undergoing training
+supplier 2,homestead,WAUVT54B42N515981,under repair
+supplier 3,vault,WAUEH74F88N629734,in transit
+supplier 3,fortress,19XFB4F36EE704196,undergoing testing
+supplier 3,nexus,WAUVC58E53A953230,retired
+supplier 4,shrine,W04GP5EC0B1855105,critical condition
+supplier 3,hideaway,WAUVT68E43A574970,inactive
+supplier 3,tower,1G6DH8E53C0847633,reassigned
+supplier 3,homestead,4T1BF3EK1BU424474,under analysis
+supplier 1,summit,1G6DU6EA6A0278903,retired
+supplier 4,vault,WA1CGAFE2DD846849,temporary storage
+supplier 1,hideaway,1G6DA67V790104861,active
+supplier 1,shrine,1N4AL3AP3DC294870,surveillance mode
+supplier 1,frost,WP0AA2A85FK142892,undergoing upgrades
+supplier 4,shrine,WBA4A7C53FG224178,reserve
+supplier 4,manor,5GAER23D39J177107,retired
+supplier 0,bastion,YV126MEB1F1201833,emergency standby
+supplier 1,shrine,1FT7W2A67EE017672,in development
+supplier 3,retreat,3C4PDCDG9CT831855,under repair
+supplier 3,lodge,2HNYD18861H792637,covert operation
+supplier 3,fortress,WAUJC68E52A178317,retired
+supplier 0,summit,JN1BY1AP3DM826023,emergency standby
+supplier 3,cabin,1FADP5AU9FL421465,reassigned
+supplier 0,fortress,WAUCKAFR1AA951321,inactive
+supplier 3,isle,1FTEW1C86AK998279,temporary storage
+supplier 3,homestead,WAUEG78E56A495161,under maintenance
+supplier 0,manor,5XYZG3AB6BG317928,retired
+supplier 4,hideaway,WA1AGBFE0CD890716,recalled
+supplier 2,cove,5FRYD3H25GB937306,destroyed
+supplier 0,fortress,2G4GS5GX2F9895896,under evaluation
+supplier 2,isle,3GYFNDE32ES943748,surveillance mode
+supplier 0,summit,JN1CV6FE9EM961848,critical condition
+supplier 3,summit,1GYEC63888R348079,critical condition
+supplier 1,lodge,WBA3B3C56FJ499211,reserve
+supplier 2,fortress,WAUVC68EX5A261750,destroyed
+supplier 4,mirage,1FTEW1C8XAF073433,undergoing training
+supplier 1,cove,1GYS3BEF8BR200805,recalled
+supplier 4,manor,1G6AX5SX5E0954955,covert operation
+supplier 3,vault,JN1CV6FE4BM072631,undergoing testing
+supplier 1,retreat,WAUA2AFD8EN705201,undergoing testing
+supplier 3,beacon,WAUSH98E07A418775,temporary storage
+supplier 0,hideaway,WAUCFAFCXEN198855,emergency standby
+supplier 2,cabin,WAUDH74F78N618574,surveillance mode
+supplier 1,lodge,1VWAH7A37EC439214,destroyed
+supplier 1,frost,WAUEFBFL5CN164821,undergoing upgrades
+supplier 1,shelter,5GAKVBED3BJ364381,under analysis
+supplier 0,lodge,1GYFK66887R253457,awaiting deployment
+supplier 4,bastion,JTHBB1BA4B2395403,emergency standby
+supplier 4,homestead,1FTWF3B52AE839572,under analysis
+supplier 3,shrine,2B3CK4CV4AH183097,under analysis
+supplier 3,cove,WAUKG98E16A654806,undergoing training
+supplier 3,nexus,SAJWA4DC3EM171863,undergoing testing
+supplier 2,depot,WP0CA2A84CS663204,surveillance mode
+supplier 0,frost,JTHBK1GG4D1608811,reassigned
+supplier 4,shrine,WAUMV44E27N191026,under maintenance
+supplier 0,mirage,1FMJK1HT9FE839653,undergoing training
+supplier 1,nexus,WVWED7AJ0BW280626,standby
+supplier 2,summit,3C4PDDDG1CT809726,reassigned
+supplier 1,beacon,1G6DP8E3XD0813918,surveillance mode
+supplier 0,summit,SCBFR7ZAXCC966298,in transit
+supplier 1,isle,WBABD33404J595118,undergoing testing
+supplier 4,mirage,WDDHF8JBXDA439910,destroyed
+supplier 3,shrine,WBAPH5G50BN699669,emergency standby
+supplier 2,cove,2C3CDXEJ4DH496759,emergency standby
+supplier 2,bastion,WBADN534X1G624781,standby
+supplier 4,frost,WBAXG5C51CC974312,recalled
+supplier 0,hideaway,1N4AL3AP1EC140563,destroyed
+supplier 0,lodge,WAUGF78K49A878241,inactive
+supplier 4,beacon,W04GW5EV8B1390674,covert operation
+supplier 0,nexus,WAUFFAFL2DA934075,surveillance mode
+supplier 1,manor,5FRYD4H41EB790048,in transit
+supplier 4,isle,WAUSH98E06A167822,in development
+supplier 0,lodge,JM3TB2BA3B0322022,undergoing testing
+supplier 0,tower,JN8AZ1FY6BW802750,surveillance mode
+supplier 4,beacon,WAUGL78E45A887793,destroyed
+supplier 3,bastion,1G6DK67V590346626,temporary storage
+supplier 3,nexus,KMHGH4JH9EU981251,lost in action
+supplier 0,fortress,5N1AZ2MG3FN243838,undergoing testing
+supplier 1,isle,WBAHN835X8D024706,under analysis
+supplier 3,manor,WAUJC68E33A653139,awaiting deployment
+supplier 0,depot,1N6AF0KY9EN506570,reassigned
+supplier 0,depot,JA32X2HU1BU604545,critical condition
+supplier 2,vault,4USCK73422L969194,undergoing upgrades
+supplier 3,beacon,SCBLC37FX5C845141,in transit
+supplier 1,mirage,WBANF73536C550947,under repair
+supplier 2,shelter,TRUUT28N821451622,undergoing testing
+supplier 4,cabin,5N1BA0NC0FN576364,reserve
+supplier 2,isle,1YVHZ8BH8A5245962,awaiting deployment
+supplier 4,shrine,1G6DJ8E34C0915215,undergoing testing
+supplier 2,beacon,4T1BF3EK0BU864556,recalled
+supplier 3,depot,3GYFNBE33ES763893,undergoing upgrades
+supplier 3,shrine,WBA6B2C5XED191785,awaiting deployment
+supplier 2,cove,WBAFR9C58CD686455,reserve
+supplier 1,shelter,1G6KE57Y83U274792,under repair
+supplier 4,lodge,1N6AD0CW1EN336286,retired
+supplier 2,summit,1G4HD5EM0AU684778,temporary storage
+supplier 4,depot,WBAWL73518P262160,undergoing training
+supplier 1,vault,WAUMFAFR0FA829971,recalled
+supplier 3,fortress,3N1CN7AP7EK347086,recalled
+supplier 0,summit,KNDPB3A23B7887419,surveillance mode
+supplier 2,cabin,WBAPH53509A571701,under maintenance
+supplier 2,cove,JTHBK1EG5C2218392,under repair
+supplier 2,shrine,3GTU1YEJ4BG004355,under maintenance
+supplier 4,retreat,1FTEX1EW4AK194331,temporary storage
+supplier 2,lodge,JTDJTUD39ED214217,retired
+supplier 4,tower,2G61M5S34F9637410,covert operation
+supplier 3,fortress,SCBGH3ZA9EC409076,under repair
+supplier 3,bastion,3N1AB6AP9CL321879,emergency standby
+supplier 1,manor,2FMGK5B83EB856433,undergoing upgrades
+supplier 4,homestead,5UXFH0C5XBL726538,standby
+supplier 3,frost,YV1672MK5B2127017,undergoing upgrades
+supplier 1,manor,1G6AT5S35F0562603,active
+supplier 1,cabin,KM8JT3AB7BU346969,covert operation
+supplier 2,cabin,1GD021EG3FZ474160,reserve
+supplier 1,summit,WA1WMAFE3DD038015,active
+supplier 2,bastion,5NPEB4AC4EH774021,covert operation
+supplier 0,cabin,WBAPM77569N906129,recalled
+supplier 4,depot,1N4AA5APXDC848164,recalled
+supplier 1,beacon,1D7RE5GK6AS996896,surveillance mode
+supplier 2,isle,2FMGK5CC3AB811022,retired
+supplier 1,frost,1C4RDHEG3CC073236,temporary storage
+supplier 4,cove,JHMZF1C46BS410530,recalled
+supplier 4,vault,1GKKRNED3CJ086821,retired
+supplier 3,shrine,WA1DGBFE0CD278822,in transit
+supplier 1,depot,WAUNF98P26A287982,in development
+supplier 2,frost,WA1VMAFE4ED414413,undergoing upgrades
+supplier 4,summit,WBAWL73539P114917,standby
+supplier 0,mirage,WAUMF68P66A539257,reserve
+supplier 3,manor,WAUVT68E63A517458,reassigned
+supplier 4,mirage,1G6DL5E3XC0328686,undergoing testing
+supplier 2,depot,3N1AB6AP7CL147942,in transit
+supplier 1,shrine,1C3CCBAG3EN229766,under maintenance
+supplier 3,frost,JA32U2FU5FU374249,critical condition
+supplier 3,hideaway,3D7TT2CT1BG218782,active
+supplier 2,nexus,JH4KA96503C162189,standby
+supplier 4,isle,WAU4FBFL2CA586368,covert operation
+supplier 4,hideaway,SAJWA4GC8EM404745,under evaluation
+supplier 2,manor,WAUEV74F07N615656,reserve
+supplier 0,mirage,JN8AE2KP3C9402000,standby
+supplier 1,retreat,1D7RE3GK7AS300003,under repair
+supplier 3,cabin,JTEBU5JR7B5727208,standby
+supplier 1,retreat,WBAPM7C58AE965189,active
+supplier 2,retreat,3D7JB1EKXAG336966,surveillance mode
+supplier 0,manor,JTMHY7AJ2E4908686,standby
+supplier 4,cabin,2C3CCAPG2DH771790,awaiting deployment
+supplier 4,cabin,4A31K3DT1CE903508,lost in action
+supplier 3,depot,SALFR2BG5DH949680,in development
+supplier 2,fortress,JN8AZ1MUXAW482203,inactive
+supplier 4,retreat,3MZBM1L74EM909730,in transit
+supplier 0,tower,JM3TB2BV7E0492231,under evaluation
+supplier 2,shelter,WAULD54B42N858262,undergoing upgrades
+supplier 1,beacon,3D73M3HL8AG049497,undergoing testing
+supplier 4,summit,5TDDK3DC1DS076654,in development
+supplier 4,homestead,WAUCD64B84N990403,under analysis
+supplier 1,homestead,WBABS53473E404738,recalled
+supplier 2,lodge,1G6AB5SX5E0739123,undergoing upgrades
+supplier 2,lodge,YV126MFB7F1938162,standby
+supplier 3,tower,WAUVT58E62A305619,under repair
+supplier 0,summit,WBALM7C50DE246800,lost in action
+supplier 2,shelter,WBA6B2C52FD929046,inactive
+supplier 3,isle,4A31K5DFXCE015149,lost in action
+supplier 3,vault,WAUFFAFL3FA297300,covert operation
+supplier 0,fortress,JH4CL96906C757808,active
+supplier 4,tower,3GYFNBEYXAS205142,covert operation
+supplier 1,nexus,1C3CDZBG4CN330395,reserve
+supplier 0,bastion,JTDKDTB38F1377989,emergency standby
+supplier 2,tower,1N6AA0EC5FN432418,under analysis
+supplier 2,manor,1C3BCBGG3DN823551,in development
+supplier 4,summit,1B3AZ6EZ9AV532860,undergoing testing
+supplier 3,shelter,WAU2GAFC1EN692725,destroyed
+supplier 2,bastion,1C4NJCBA2FD832788,inactive
+supplier 1,mirage,JM3ER2A58C0466109,inactive
+supplier 0,bastion,1GYS3JKJ1FR918608,emergency standby
+supplier 3,frost,5J6TF1H39BL896620,critical condition
+supplier 2,cove,JN1BY1AP3FM363397,inactive
+supplier 0,nexus,19UUA9E51CA972830,surveillance mode
+supplier 4,lodge,KNDJN2A28F7540729,covert operation
+supplier 2,nexus,WAUEH48H38K045012,undergoing upgrades
+supplier 2,isle,WAUJF78K99N395309,active
+supplier 3,hideaway,SAJWA4EB8EL723062,surveillance mode
+supplier 1,isle,1GYS3JEF6CR777926,emergency standby
+supplier 3,shrine,1G6AZ5S37F0631662,critical condition
+supplier 3,bastion,5FRYD3H9XGB491229,retired
+supplier 2,depot,2T2BK1BA4EC993767,under repair
+supplier 1,tower,WA1CFAFP1FA771988,inactive
+supplier 1,lodge,WBAPH5G55BN588678,under analysis
+supplier 3,bastion,WBANV1C53AB254793,under analysis
+supplier 4,depot,1FMJK1F59CE720145,reserve
+supplier 0,frost,KMHD35LH9FU150354,under maintenance
+supplier 2,frost,WBAKN9C52FD175919,covert operation
+supplier 2,isle,WAUAVAFD0CN987662,inactive
+supplier 2,isle,WBAUC7C54AV961744,in development
+supplier 4,isle,5UXWX7C51E0030619,temporary storage
+supplier 4,lodge,WA1CGAFP3EA557922,under repair
+supplier 1,lodge,19XFB2F51DE872154,inactive
+supplier 4,shelter,2C3CA3CV9AH009817,recalled
+supplier 0,lodge,4T1BD1EB4DU667841,reserve
+supplier 3,cove,JN1AJ0HP2CM185493,emergency standby
+supplier 4,hideaway,1N6AA0CH7DN694047,under maintenance
+supplier 2,homestead,WAUWFBFL0AA270666,undergoing testing
+supplier 2,manor,WBA3B3C51DJ911595,undergoing upgrades
+supplier 4,cabin,1FTWW3B59AE270154,surveillance mode
+supplier 4,depot,WBAUC9C55DV313295,critical condition
+supplier 3,shrine,3C4PDCAB5FT576845,undergoing training
+supplier 3,manor,WAUAFAFH2EN498781,recalled
+supplier 0,isle,WAUKG74FX6N798480,under evaluation
+supplier 4,nexus,1G6DL67A280394349,reassigned
+supplier 3,shrine,JHMZE2H33ES050338,reserve
+supplier 0,mirage,19XFB4F29DE164493,lost in action
+supplier 4,frost,1C3CDZEGXCN898176,surveillance mode
+supplier 0,summit,1G4GD5EG2AF688941,temporary storage
+supplier 2,depot,WAUML44D42N656380,under maintenance
+supplier 0,manor,1GYS4FEJ5CR624906,undergoing upgrades
+supplier 0,frost,WA1BV74L57D021446,under repair
+supplier 2,mirage,ML32A3HJ2FH116446,temporary storage
+supplier 1,cove,3FA6P0SU7FR737863,destroyed
+supplier 4,beacon,WA1AV74L19D293362,reassigned
+supplier 3,mirage,WBA3C3C59DF862162,undergoing upgrades
+supplier 1,cabin,WAU4FAFL8BA847625,critical condition
+supplier 3,shelter,JTDZN3EU0FJ580830,in development
+supplier 2,shrine,5UMDU93426L352802,standby
+supplier 4,shrine,3C3CFFHH0DT494933,active
+supplier 4,depot,YV4952CF2B1859279,critical condition
+supplier 1,frost,WAULH64B51N848834,emergency standby
+supplier 2,nexus,1N6AA0EK9FN067149,temporary storage
+supplier 0,beacon,WAUAC48H86K870943,temporary storage
+supplier 1,hideaway,1J4AA2D15BL071271,under analysis
+supplier 2,hideaway,1FTEW1C84AK367319,standby
+supplier 2,bastion,YV1902AH9E1404952,active
+supplier 0,depot,1B3CC1FB4AN199241,standby
+supplier 1,shrine,KNADH5A39A6998256,emergency standby
+supplier 1,isle,WAUR2AFD6DN300570,under maintenance
+supplier 2,fortress,WAUKG94F96N200228,under repair
+supplier 3,cove,WBADT43423G872090,awaiting deployment
+supplier 0,lodge,WBABS53492E753219,under evaluation
+supplier 3,summit,1D7RV1GT7AS355564,emergency standby
+supplier 2,nexus,WAUEFBFL1BN721674,under repair
+supplier 3,mirage,JA32U1FU2CU394271,destroyed
+supplier 0,mirage,3FAHP0DC6AR842268,retired
+supplier 2,mirage,1GYS4EEJXDR250840,under repair
+supplier 2,manor,SCFEBBAK7BG588244,in development
+supplier 2,lodge,2G4GS5EV4D9641119,under repair
+supplier 0,shrine,YV4952CF6D1765408,retired
+supplier 1,cabin,5J8TB2H26AA990349,retired
+supplier 3,isle,JN8AE2KP9B9512161,reserve
+supplier 2,fortress,WBAKF3C59DJ458990,critical condition
+supplier 3,frost,WAUEH48H88K654340,undergoing testing
+supplier 1,summit,YV4902DZ4B2109447,destroyed
+supplier 2,nexus,5J8TB3H59GL342906,active
+supplier 0,shelter,1G6DH577X90404496,lost in action
+supplier 0,lodge,WA1EV94L18D723631,in transit
+supplier 2,cabin,1GD22XEG9FZ890418,active
+supplier 4,shrine,3GYEK63N03G774480,temporary storage
+supplier 2,shelter,3C4PDCDG8FT260766,destroyed
+supplier 3,mirage,WA1LMBFE7BD992045,active
+supplier 4,homestead,WBADW3C57BE869495,awaiting deployment
+supplier 2,mirage,WBAWV5C51AP270294,retired
+supplier 0,mirage,1FMCU9E78AK338711,temporary storage
+supplier 1,mirage,1N4AB7AP4DN909912,in transit
+supplier 0,homestead,2C3CCAGG4DH185253,covert operation
+supplier 1,cove,YV1902MCXF1148502,under maintenance
+supplier 2,mirage,5UXWX7C58DL627120,surveillance mode
+supplier 2,manor,JTDJTUD35ED141086,standby
+supplier 4,beacon,WVWED7AJ4BW924337,lost in action
+supplier 1,vault,WVGAV3AX4EW597379,in development
+supplier 0,lodge,SALVP1BG2CH660167,reassigned
+supplier 0,shrine,KNDMG4C7XC6842603,reassigned
+supplier 3,depot,WAUFMAFC1EN462225,inactive
+supplier 1,fortress,3VWML7AJ7BM583060,retired
+supplier 4,beacon,WBAUT9C54AA954859,lost in action
+supplier 1,beacon,1G6DJ1E35C0139846,surveillance mode
+supplier 3,shrine,YV1960AS4A1620085,standby
+supplier 1,bastion,5FRYD3H67FB525759,undergoing testing
+supplier 1,frost,TRUB3AFK5D1204426,undergoing training
+supplier 3,tower,WAUWGAFC4FN083101,recalled
+supplier 2,lodge,JN1CV6AP1BM702999,inactive
+supplier 1,hideaway,3FAHP0JA5AR706622,under repair
+supplier 2,homestead,3D7TP2CT8BG525323,undergoing training
+supplier 3,tower,WAUAFAFL5AN578994,undergoing testing
+supplier 0,depot,1G6AX5SX5E0551736,standby
+supplier 0,summit,5BZBF0AA2EN488523,under maintenance
+supplier 4,cabin,WVGEF9BP1DD886701,reassigned
+supplier 2,depot,WBAAV33491E844125,undergoing training
+supplier 4,mirage,KNAFU6A29C5206178,covert operation
+supplier 1,bastion,1G6DV8EP2C0339437,standby
+supplier 1,vault,1G6DP8EDXB0773216,retired
+supplier 4,shrine,2FMPK3K91FB701944,retired
+supplier 1,nexus,1G6AW5SX9F0965493,under repair
+supplier 2,mirage,2C3CCASG0FH260413,standby
+supplier 1,isle,5FNYF3H25BB597689,temporary storage
+supplier 1,shrine,1G6DR57V580599482,active
+supplier 4,shrine,5J8TB18288A406294,undergoing upgrades
+supplier 3,tower,JN1AZ4EH3FM069169,in transit
+supplier 3,fortress,WDDEJ8GB6AA450827,under analysis
+supplier 4,summit,5N1AA0NCXBN963400,under analysis
+supplier 0,tower,WAUSH98E47A501299,critical condition
+supplier 4,cove,WBA3N7C50EF130733,undergoing testing
+supplier 2,isle,JN1CV6AP4DM930272,inactive
+supplier 1,homestead,1GYS4BEF1ER589384,awaiting deployment
+supplier 3,shelter,5TFCM5F18AX084639,awaiting deployment
+supplier 2,nexus,WBAFR1C50BD473922,recalled
+supplier 4,bastion,WAUHF98P49A723068,critical condition
+supplier 3,lodge,1G6DH577280157067,undergoing training
+supplier 1,lodge,3LNHL2GC7AR585131,temporary storage
+supplier 1,manor,1GTN1TEX0CZ923637,under repair
+supplier 2,cabin,WAUR4AFD1CN649306,reassigned
+supplier 2,cove,SCFFDAAE0CG940441,under evaluation
+supplier 4,hideaway,3GYFNBE37CS559482,critical condition
+supplier 3,vault,WAUKGAFB5BN210079,active
+supplier 4,shelter,WAUJT64B42N664265,critical condition
+supplier 4,homestead,2C3CDXBG0CH992732,under evaluation
+supplier 4,tower,3D73Y4HL1AG798667,awaiting deployment
+supplier 0,manor,KNAFT4A20D5868417,covert operation
+supplier 2,hideaway,5J8TB4H30FL344529,temporary storage
+supplier 3,manor,1FTWX3B56AE521127,under repair
+supplier 4,isle,2G4WS52J211625122,undergoing upgrades
+supplier 3,depot,4T1BF1FK4FU038110,temporary storage
+supplier 2,manor,1GYFK36269R822190,standby
+supplier 1,vault,1G6DP5ED7B0910854,temporary storage
+supplier 4,shrine,19UUA56963A292111,covert operation
+supplier 2,tower,WBAYB6C55FD829099,in transit
+supplier 3,retreat,5N1AN0NW0EN670706,surveillance mode
+supplier 4,shelter,1N4AA5AP7AC184031,recalled
+supplier 1,frost,NM0KS9BN2CT601684,under repair
+supplier 3,frost,3GYFNKE67BS430120,destroyed
+supplier 4,lodge,1C3CDFAAXDD318822,destroyed
+supplier 0,homestead,WBAYE4C59ED600595,under evaluation
+supplier 3,cove,WBAVT13556A283599,under repair
+supplier 3,mirage,3C6TD4DT6CG858805,under evaluation
+supplier 3,frost,SCBBR53W16C851066,temporary storage
+supplier 1,shelter,3MZBM1U74EM362733,in development
+supplier 4,hideaway,WBAEH134X6C114238,under maintenance
+supplier 0,bastion,1N6AD0CW7FN258808,emergency standby
+supplier 0,bastion,5BZAF0AA6EN399632,in development
+supplier 3,summit,1GTCSBD95A8292808,retired
+supplier 3,isle,5NPEB4ACXDH798354,active
+supplier 4,beacon,1GYS4JEF4BR786197,undergoing upgrades
+supplier 4,frost,1FMJK1F58AE432484,under analysis
+supplier 3,hideaway,1GD311CG0FF776476,lost in action
+supplier 1,cabin,WAUYP54B11N072169,undergoing upgrades
+supplier 3,hideaway,SCBGC3ZA7EC060174,undergoing testing
+supplier 0,cove,JA4AP3AU3BZ756594,under repair
+supplier 2,shelter,WAUKFAFL7BN461889,undergoing testing
+supplier 1,depot,5NPDH4AE9DH831677,under repair
+supplier 4,lodge,JM1GJ1T65E1200438,in transit
+supplier 0,summit,5N1CR2MN5EC043741,recalled
+supplier 3,tower,3GYT4NEF0BG405828,recalled
+supplier 0,depot,5TDBK3EHXAS513418,recalled
+supplier 0,fortress,JN1AZ4EH3AM195489,destroyed
+supplier 2,cove,1G6DS5EV9A0996013,undergoing training
+supplier 2,nexus,5GADX33L25D027514,under repair
+supplier 1,hideaway,WBAKX6C50BC450826,retired
+supplier 1,cabin,WA1WYBFE7AD493956,undergoing training
+supplier 4,nexus,JH4DC54845S939166,covert operation
+supplier 4,summit,1FTEX1C8XAK086543,under repair
+supplier 4,mirage,1FTNF1E86AK428036,awaiting deployment
+supplier 2,tower,SCBZB25E82C700922,in transit
+supplier 3,fortress,1FMEU8DE7AU603027,critical condition
+supplier 4,manor,1G4GD5G33FF478110,undergoing upgrades
+supplier 4,bastion,WAUWGBFB3BN361977,under repair
+supplier 1,shelter,JTHCL5EF4F5263438,reserve
+supplier 4,retreat,JN1CV6EK9DM929777,recalled
+supplier 0,homestead,WDDNG9FB0CA825474,retired
+supplier 4,hideaway,1HGCP2E79CA459506,emergency standby
+supplier 4,depot,1D4RD3GG8BC743896,recalled
+supplier 3,tower,1J4NF1GB7AD809646,reserve
+supplier 4,bastion,3GYFNFE38CS287404,standby
+supplier 3,isle,1G6KF57905U267540,under maintenance
+supplier 1,shrine,JN8AF5MR2ET379425,lost in action
+supplier 1,bastion,5FRYD3H2XEB408821,undergoing testing
+supplier 0,isle,WBA3B3C53DJ707025,awaiting deployment
+supplier 4,cove,4T1BF1FK6CU430176,destroyed
+supplier 0,bastion,WAULD64B03N896837,undergoing upgrades
+supplier 0,fortress,2T1BPRHE7EC438410,undergoing testing
+supplier 2,beacon,1G6AE5SX8F0895360,undergoing testing
+supplier 1,cabin,JN1CV6AP9CM865871,recalled
+supplier 1,homestead,1G4GC5EC0BF064105,under maintenance
+supplier 4,lodge,3VW4A7AT2DM876696,destroyed
+supplier 4,summit,1GTN1TEX0BZ434735,active
+supplier 1,lodge,WBAKE5C50BE651615,in development
+supplier 1,tower,NM0GE9E76F1821503,under maintenance
+supplier 1,shrine,JN8AF5MR2ET946085,under repair
+supplier 4,isle,2B3CK9CV6AH035319,reassigned
+supplier 0,nexus,4A31K3DT8AE436312,under repair
+supplier 2,beacon,1N6AD0CU3EN841647,standby
+supplier 0,homestead,1G6AC5SX0F0941964,in development
+supplier 3,frost,WAUMFAFL6CA444051,lost in action
+supplier 3,frost,WA1LGAFEXFD337711,in transit
+supplier 2,fortress,WBAVB73538V568352,active
+supplier 0,vault,1G6DS8ED8B0461510,critical condition
+supplier 0,bastion,5NPDH4AE5EH820788,standby
+supplier 2,manor,3N1BC1AP9BL704417,reassigned
+supplier 0,cove,5TDDK3DC0DS302599,lost in action
+supplier 2,frost,JA32U2FU2EU211119,retired
+supplier 3,shrine,JTDKDTB38F1919883,inactive
+supplier 4,tower,WBANE73557C513029,destroyed
+supplier 0,hideaway,WAUDV94F39N175054,critical condition
+supplier 2,bastion,WP1AA2A21EL991448,reserve
+supplier 3,bastion,WBAUC9C53DV913295,standby
+supplier 4,isle,1C4RDJEG6EC143953,undergoing testing
+supplier 4,retreat,WVGEG9BP4DD078405,surveillance mode
+supplier 2,cove,JN8AZ2KR2AT725279,in development
+supplier 2,retreat,3FAHP0CG7AR740756,critical condition
+supplier 3,beacon,3N1CE2CPXFL840143,active
+supplier 2,mirage,2T1BPRHE9FC433856,inactive
+supplier 3,cabin,2G61S5S3XD9166074,reserve
+supplier 4,isle,WAUMF68P46A816035,undergoing training
+supplier 3,retreat,JTDZN3EU9FJ440498,reserve
+supplier 2,hideaway,2T1BPRHE4EC543342,emergency standby
+supplier 4,frost,1G4HR54K724533651,recalled
+supplier 4,retreat,2G4WC552171440151,in development
+supplier 3,bastion,WAUGL98E75A333790,awaiting deployment
+supplier 4,isle,WA1AY94L67D883122,emergency standby
+supplier 3,beacon,WAUEFAFL9CA301521,destroyed
+supplier 1,depot,3FADP4AJ4FM165301,undergoing testing
+supplier 3,tower,5TDBY5G1XFS912332,awaiting deployment
+supplier 3,fortress,JA4AD3A33FZ662754,awaiting deployment
+supplier 3,cove,JA32U2FU6DU025615,awaiting deployment
+supplier 3,shelter,1FTSX2A5XAE739517,under analysis
+supplier 4,fortress,1N6BF0KXXFN217470,reserve
+supplier 3,nexus,WAUYGBFC5CN749991,destroyed
+supplier 3,shrine,KMHGH4JH3CU033313,destroyed
+supplier 3,frost,1GYEE637960302831,undergoing upgrades
+supplier 3,homestead,WAUVFAFR1DA277995,recalled
+supplier 3,depot,WP1AE2A20DL661612,under maintenance
+supplier 1,shelter,WAUVKAFR6AA433956,recalled
+supplier 4,cove,3GYFNFE30CS144981,under analysis
+supplier 2,shelter,1G6DP8EV4A0708238,active
+supplier 1,beacon,5FNYF3H29CB054234,undergoing training
+supplier 0,frost,WA1UFAFL2DA567909,in transit
+supplier 1,retreat,3CZRE3H59BG424716,reassigned
+supplier 4,mirage,WA1DKBFP2CA636391,recalled
+supplier 2,nexus,1N6AF0LY7FN777062,critical condition
+supplier 2,frost,JTEBU5JR6C5708358,lost in action
+supplier 2,isle,JA4AD3A34FZ678669,under repair
+supplier 0,nexus,JM1NC2JF2D0656430,under evaluation
+supplier 4,fortress,19UUA86269A055034,undergoing training
+supplier 0,mirage,WA1LMBFE0CD598470,temporary storage
+supplier 1,frost,1VWAH7A3XEC429874,emergency standby
+supplier 0,frost,WDDHF5KB3FB358712,covert operation
+supplier 3,isle,5N1AT2ML3EC203509,reserve
+supplier 1,depot,3D73M3CL9AG227263,under repair
+supplier 4,isle,WDDHF5GB3AA176161,in transit
+supplier 1,shrine,3VWML7AJ5DM343377,in development
+supplier 2,isle,2HNYD187X4H335972,undergoing training
+supplier 0,vault,1FTEX1CM9BK221607,undergoing testing
+supplier 4,cabin,3VWPG3AG8AM945118,awaiting deployment
+supplier 4,beacon,1N4AB7AP0DN877539,awaiting deployment
+supplier 2,beacon,WA1EY94L27D728200,lost in action
+supplier 0,manor,JTDZN3EUXFJ895053,under repair
+supplier 2,cabin,1G6AZ5SX7F0202296,recalled
+supplier 4,depot,1FTEX1E8XAK698206,in transit
+supplier 2,beacon,1C4NJPBA6DD855091,recalled
+supplier 4,nexus,1YVHZ8BH9C5386073,under evaluation
+supplier 1,retreat,WAULFAFH4DN515426,surveillance mode
+supplier 1,isle,SCFHDDAT5EG345693,undergoing testing
+supplier 3,homestead,WAUKF98P99A540321,awaiting deployment
+supplier 1,cove,2FMDK3GC0BB180006,under maintenance
+supplier 2,shrine,3FADP4AJ0DM472817,undergoing training
+supplier 1,shrine,19UUA8F53DA996668,temporary storage
+supplier 0,isle,SCFEDEAN7CG780545,recalled
+supplier 3,frost,WAUKF78EX8A522718,retired
+supplier 1,beacon,WVGAV7AX6CW479239,under maintenance
+supplier 1,mirage,1HGCP2E32BA367052,under evaluation
+supplier 3,fortress,WA1EV94L28D335002,undergoing upgrades
+supplier 2,homestead,5UXZV8C53CL871524,under repair
+supplier 3,summit,3C63DRML2CG632239,surveillance mode
+supplier 0,nexus,WAUHF98P78A241807,undergoing training
+supplier 4,shelter,SCBZU25E41C621756,under repair
+supplier 3,tower,19VDE1F70FE296059,surveillance mode
+supplier 4,cove,5N1AA0NC5EN675711,destroyed
+supplier 1,beacon,SAJWA6A7XF8642260,covert operation
+supplier 3,manor,WUAUUAFG1CN378919,active
+supplier 2,shelter,2C3CA4CG1BH985602,under evaluation
+supplier 1,fortress,WBSDE93492C673059,undergoing testing
+supplier 1,fortress,WBASP4C58BC588182,under analysis
+supplier 4,fortress,1GYS4FEJ1BR036709,temporary storage
+supplier 0,fortress,5UMBT93508L052455,undergoing training
+supplier 1,frost,1VWAH7A30EC205299,inactive
+supplier 4,nexus,1N6AF0KY9EN648076,under maintenance
+supplier 3,lodge,1FTSF3B55AE865999,surveillance mode
+supplier 2,retreat,2HNYD18671H341912,under repair
+supplier 0,retreat,WDDDJ7CB2BA741080,destroyed
+supplier 1,fortress,WA1DKAFP5BA583145,temporary storage
+supplier 3,cabin,JM1GJ1T53E1393065,under maintenance
+supplier 3,shelter,1FMEU5DEXAU457205,critical condition
+supplier 0,hideaway,19UUA656X6A095394,retired
+supplier 4,beacon,1J4NF1GBXAD505761,critical condition
+supplier 2,vault,19XFB2E50CE086586,under maintenance
+supplier 2,nexus,WAUVT58E65A455539,under analysis
+supplier 2,cabin,4A31K2DF2AE475031,awaiting deployment
+supplier 1,hideaway,WBAPK535X9A598082,under analysis
+supplier 4,retreat,3D73Y3CL5BG521037,inactive
+supplier 4,tower,1G4HJ5EM9AU664716,reassigned
+supplier 2,mirage,2C3CK5CV3AH116970,covert operation
+supplier 2,depot,1G6YX36D595695685,undergoing upgrades
+supplier 1,beacon,5NPDH4AE4CH006077,undergoing testing
+supplier 0,homestead,2G4GL5EXXF9549577,surveillance mode
+supplier 3,lodge,WBAFU7C58BC505166,reassigned
+supplier 1,vault,WBAWC3C51AP432614,awaiting deployment
+supplier 3,lodge,19UUA569X3A000699,undergoing testing
+supplier 1,shrine,1N4AL3AP1DC996170,undergoing testing
+supplier 1,summit,WAUGL78EX6A236007,awaiting deployment
+supplier 0,nexus,WAUGL98E95A159740,reassigned

@@ -207,6 +207,10 @@ A- Relational:
 			4- assets:
 				assets (0-9).CSV
 				assets_weapons (0-9).CSV
+				assets_surveilliance (0-9).CSV
+				assets_SH (0-9).CSV
+				assets_CE (0-9).CSV
+				assets_drone (0-9).CSV
 			5- contacts:
 			6- secret_identities:
 			7- missions:

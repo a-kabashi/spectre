@@ -38,6 +38,34 @@ A- Relational:
 						next(reader, None)
 						for row in reader:
 							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'weapon\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
+				surveillance:
+					import csv
+					with open('assets_survelliance.csv', newline='') as csvfile:
+						reader = csv.reader(csvfile)
+						next(reader, None)
+						for row in reader:
+							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'surveillance\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
+				safe house:
+					import csv
+					with open('assets_SH.csv', newline='') as csvfile:
+						reader = csv.reader(csvfile)
+						next(reader, None)
+						for row in reader:
+							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'safe house\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
+				communication equipment:
+					import csv
+					with open('assets_CE.csv', newline='') as csvfile:
+						reader = csv.reader(csvfile)
+						next(reader, None)
+						for row in reader:
+							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'communication equipment\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
+				drone:
+					import csv
+					with open('assets_drone.csv', newline='') as csvfile:
+						reader = csv.reader(csvfile)
+						next(reader, None)
+						for row in reader:
+							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'drone\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
 			5- contacts:
 			6- secret_identities:
 			7- missions:

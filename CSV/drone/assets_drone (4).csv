@@ -1,0 +1,1001 @@
+0,1,2,3
+supplier 3,vtol,3VWJX7AJ4AM939521,in development
+supplier 2,high-altitude uav,WAUDV74FX8N477170,temporary storage
+supplier 1,fixed-wing uav,KMHFH4JG4FA344435,reassigned
+supplier 0,vtol,JTDZN3EU8FJ377961,recalled
+supplier 3,glider,JTDZN3EU3E3998916,recalled
+supplier 5,surveillance uav,WAUDGAFL2BA929458,undergoing training
+supplier 5,armed uav,WAUMF78K39A552014,in transit
+supplier 0,aerial,3VW517AT8FM702008,awaiting deployment
+supplier 4,nano,3GYFNEE36CS970759,undergoing upgrades
+supplier 4,stealth,JH4CU2F65DC471752,under repair
+supplier 4,armed uav,1GD220CG0CZ779259,under maintenance
+supplier 2,hover,WBAWL1C59AP962723,undergoing upgrades
+supplier 0,tactical,4USBT53453L891282,under analysis
+supplier 0,reconnaissance uav,5FNRL5H22CB530042,undergoing testing
+supplier 1,tactical,WBA6A0C56FG081937,under evaluation
+supplier 5,high-altitude uav,1FBNE3BL3CD127288,under maintenance
+supplier 4,micro,3C4PDCGB3FT334739,under repair
+supplier 1,nano,WAULL44E96N971279,recalled
+supplier 0,armed uav,WDDNG9FB7CA516097,surveillance mode
+supplier 0,reconnaissance uav,WVWBB7AJ8DW029364,lost in action
+supplier 5,nano,5XXGM4A7XEG097915,standby
+supplier 1,glider,SALAF2D49AA655239,active
+supplier 5,stealth,WAUDL64F35N660275,under repair
+supplier 2,reconnaissance uav,WBAEH73435B463331,active
+supplier 0,surveillance uav,1HGCP2E33BA332326,destroyed
+supplier 4,surveillance,3VWJX7AJ0AM886106,retired
+supplier 1,tactical,1G6DE5E50D0821323,awaiting deployment
+supplier 4,high-altitude uav,WAURVAFA5AN363622,active
+supplier 3,surveillance,5TDDK3DCXDS906631,reassigned
+supplier 5,aerial,WAUKH78E27A576040,covert operation
+supplier 2,mav,WA1DVBFE4AD779909,recalled
+supplier 3,vtol,SCBCR7ZA2AC804178,emergency standby
+supplier 0,stealth recon,19UYA42512A728277,undergoing testing
+supplier 2,tactical,JN1AZ4FH8FM483496,undergoing upgrades
+supplier 0,tactical,WAULK78K99N178606,covert operation
+supplier 4,hover,WA1YD64B95N670379,surveillance mode
+supplier 0,aerial,1GYS3CKJ9FR541845,emergency standby
+supplier 0,mav,WBA3X5C59FD181062,standby
+supplier 0,surveillance uav,JTJHY7AX6B4065461,under maintenance
+supplier 0,autonomous,1G6AB5SX9E0396977,destroyed
+supplier 4,high-altitude uav,WBAFR7C50CC662788,under maintenance
+supplier 4,hover,1N6AA0EK5FN875112,retired
+supplier 4,surveillance uav,WAUDF98E78A930114,standby
+supplier 4,tactical,WAUEKAFB6AN988949,undergoing upgrades
+supplier 3,stealth recon,WAURGAFD0DN726045,emergency standby
+supplier 3,stealth,WA1DGBFE1BD818659,awaiting deployment
+supplier 0,reconnaissance uav,JM1NC2MF3E0337972,reassigned
+supplier 0,armed uav,1FA6P0G77F5666959,under evaluation
+supplier 3,stealth recon,3C6LD5BT7CG017049,under maintenance
+supplier 5,nano,1G4PP5SKXD4428481,covert operation
+supplier 2,mav,1N6AF0KX3EN499073,retired
+supplier 4,stealth recon,JM1NC2JF4D0449800,lost in action
+supplier 0,stealth recon,5GAKRBED6BJ689773,reserve
+supplier 3,stealth,1FMJK1H55CE985741,surveillance mode
+supplier 3,nano,2C3CCAEG4DH081056,destroyed
+supplier 0,recon,1GT022CG7EF979910,in transit
+supplier 5,hover,JTHFE2C21E2475493,under analysis
+supplier 4,hover,1FTEW1E81AF962120,in development
+supplier 3,security,WAUFGBFC1DN072950,reassigned
+supplier 1,aerial,5UXFG83598L192250,undergoing testing
+supplier 5,stealth recon,WBABN534X1J895611,standby
+supplier 2,glider,1HGCR2E73FA019196,lost in action
+supplier 5,fixed-wing uav,JN1AZ4EH8FM220281,awaiting deployment
+supplier 3,autonomous,JTHFF2C24D2088450,under analysis
+supplier 2,armed uav,3VW517AT9FM544844,inactive
+supplier 5,vtol,TRUSC28N331236495,covert operation
+supplier 1,surveillance uav,WVWAB7AJ3DW863053,under analysis
+supplier 0,hover,JHMGE8G21AS545313,under analysis
+supplier 1,mini,JTHBB1BA3C2979289,in development
+supplier 5,hover,JH4CU2E80DC580896,under evaluation
+supplier 0,stealth recon,1FMCU4K38CK446480,active
+supplier 3,reconnaissance uav,1G4PP5SK4E4429580,retired
+supplier 3,hover,3N1BC1AP0BL953365,destroyed
+supplier 1,autonomous,2G4WE537151394293,critical condition
+supplier 4,glider,YV1940AS0B1002804,in development
+supplier 3,reconnaissance uav,1FTWW3A51AE262356,undergoing training
+supplier 3,mav,2D4RN4DE4AR758567,undergoing training
+supplier 5,mav,JN1AZ4EH5DM196132,awaiting deployment
+supplier 2,vtol,WAUNF78P56A821013,lost in action
+supplier 3,surveillance uav,1G4GA5EC9AF159606,recalled
+supplier 0,surveillance uav,WBAEA53558C285583,undergoing upgrades
+supplier 2,fixed-wing uav,5UXFE83529L892909,reassigned
+supplier 2,high-altitude uav,JN8AS1MU0CM313374,standby
+supplier 1,armed uav,JM1GJ1T62F1766185,critical condition
+supplier 4,stealth,2G4WS52J111522161,critical condition
+supplier 2,hover,5N1BA0ND8FN249655,emergency standby
+supplier 5,surveillance,2G4GX5GVXB9141431,under analysis
+supplier 3,high-altitude uav,WAUBF78K79N195016,retired
+supplier 1,high-altitude uav,WA1LGBFE2ED922612,under repair
+supplier 0,high-altitude uav,SALGS2TF8FA362819,awaiting deployment
+supplier 0,reconnaissance uav,1G6DJ577X80078654,inactive
+supplier 2,recon,JA4AP3AU0BZ861822,undergoing upgrades
+supplier 5,nano,JA32U1FU8CU682120,under evaluation
+supplier 0,glider,1N6AD0CU6EN338887,destroyed
+supplier 0,armed uav,1N4AA5AP6DC359714,temporary storage
+supplier 5,reconnaissance uav,1G6AB5RX5E0563258,surveillance mode
+supplier 3,mav,WAULT68E34A832260,active
+supplier 4,tactical,1ZVBP8JS9C5689298,recalled
+supplier 2,reconnaissance uav,1G6DL1E34C0972953,under analysis
+supplier 0,high-altitude uav,WBAPK73529A470009,recalled
+supplier 2,hover,KMHHT6KD3CU636028,in transit
+supplier 1,mav,WAUSFBFL5AA045898,lost in action
+supplier 1,reconnaissance uav,JN1AY1AP6CM832246,under repair
+supplier 0,armed uav,KNDPB3A22C7501428,emergency standby
+supplier 3,nano,TRUTC28N121560502,emergency standby
+supplier 0,mav,3VW507AT0FM592185,under repair
+supplier 1,micro,19UUA566X3A366457,active
+supplier 5,hover,JTDKN3DU3B0907000,surveillance mode
+supplier 3,high-altitude uav,1GYEK63N46R971110,retired
+supplier 1,mini,1GYS3AEF5CR279698,critical condition
+supplier 4,mini,5GADV23W27D978535,critical condition
+supplier 0,high-altitude uav,2G4WC582871358459,under repair
+supplier 1,tactical,1FTEW1C87FF304294,active
+supplier 1,autonomous,WAUKD78P49A042490,recalled
+supplier 2,high-altitude uav,3VWKX7AJ2CM229007,under repair
+supplier 2,stealth,WAUVC68E42A393883,recalled
+supplier 3,mav,WAUEFAFL3FA174530,under evaluation
+supplier 0,autonomous,2C3CDXFG2DH609031,undergoing upgrades
+supplier 4,surveillance,1G6AT5SX5E0825173,retired
+supplier 5,fixed-wing uav,JA4AS2AW2DU698777,standby
+supplier 1,mav,WAUBFBFLXAN119888,emergency standby
+supplier 4,hover,1GD01ZCG6BF555881,undergoing upgrades
+supplier 3,mini,1FMJK1HT6FE075261,active
+supplier 4,autonomous,1GYUCCEF1AR305151,retired
+supplier 2,glider,WAUXL68E44A497320,reserve
+supplier 2,armed uav,JTEBU5JR2E5555643,undergoing testing
+supplier 2,nano,1C3CDFBA3DD748982,critical condition
+supplier 4,surveillance uav,WVWAB7AJ6DW158358,lost in action
+supplier 0,autonomous,1GD11ZCG2CF922068,lost in action
+supplier 5,nano,WP1AA2A24EL801545,temporary storage
+supplier 2,armed uav,3D7JB1EP0BG306355,surveillance mode
+supplier 3,security,2T1BURHE5FC626174,awaiting deployment
+supplier 5,tactical,2G4GS5EC3B9992311,under repair
+supplier 2,reconnaissance uav,WAULC68E85A999201,undergoing training
+supplier 4,hover,YV1902AH4B1470207,recalled
+supplier 3,stealth recon,1G6AC5SX7E0191462,undergoing testing
+supplier 5,hover,JTDZN3EU0FJ110975,in development
+supplier 4,fixed-wing uav,3N1CN7AP7FL078843,awaiting deployment
+supplier 3,high-altitude uav,WA1DGAFP7FA966527,covert operation
+supplier 5,stealth recon,1D7CE3GK7AS408644,lost in action
+supplier 4,high-altitude uav,19UYA42751A636282,in development
+supplier 2,vtol,1GD11ZCG5CF891897,under evaluation
+supplier 0,hover,WAUDK78T49A557209,undergoing training
+supplier 4,tactical,WAUAFAFC4CN056263,under evaluation
+supplier 0,nano,1G6DL8EY8B0540451,emergency standby
+supplier 2,surveillance,WA1C8AFP4DA865287,lost in action
+supplier 0,mini,1NXBE4EEXAZ349159,emergency standby
+supplier 1,vtol,WUADUAFG7AN815464,under maintenance
+supplier 1,micro,YV1612FH6D1435454,undergoing testing
+supplier 4,reconnaissance uav,5LMJJ2H52EE736972,under maintenance
+supplier 0,hover,1GD22ZCG1CZ252013,under analysis
+supplier 1,nano,1B3CC5FB1AN777335,under analysis
+supplier 5,reconnaissance uav,SCBDC47L29C210999,reassigned
+supplier 2,surveillance,1G4HP57M99U388366,undergoing testing
+supplier 4,nano,2HNYD18671H629140,retired
+supplier 4,mini,WBAKG7C58BE364979,awaiting deployment
+supplier 3,stealth,2LMDJ6JK5CB501891,undergoing upgrades
+supplier 1,security,WA1CGAFE6BD829534,under analysis
+supplier 5,high-altitude uav,1FTEW1CW8AK284524,under evaluation
+supplier 1,stealth recon,3C3CFFER0ET785222,under analysis
+supplier 0,stealth recon,1G6KD54Y21U657891,destroyed
+supplier 1,security,YV440MBK1F1207715,destroyed
+supplier 0,nano,WAUDF78E08A816895,emergency standby
+supplier 2,fixed-wing uav,WAUDF78E88A262070,undergoing upgrades
+supplier 2,reconnaissance uav,WBAUN1C50CV680454,under repair
+supplier 1,glider,JA32U1FU9CU386815,undergoing training
+supplier 5,high-altitude uav,WAUEH98E08A042805,undergoing upgrades
+supplier 4,aerial,SCFHDDAJXCA088996,undergoing training
+supplier 5,reconnaissance uav,1GYS4KEF3ER197717,in transit
+supplier 4,security,WBSPM9C53AE341808,reassigned
+supplier 3,glider,3N1CN7AP6EL578734,surveillance mode
+supplier 0,autonomous,1FTMF1CW9AF969023,surveillance mode
+supplier 5,mini,WAUFEAFM7BA669338,under analysis
+supplier 5,vtol,1N6BF0KXXFN157450,undergoing testing
+supplier 2,armed uav,1C6RD7JT2CS770214,under maintenance
+supplier 4,stealth recon,WBAEJ13472A903103,in transit
+supplier 4,nano,JH4NA12651T867354,recalled
+supplier 4,fixed-wing uav,KL4CJHSBXFB992422,under repair
+supplier 0,autonomous,2HNYD28878H481458,in transit
+supplier 3,mav,19UUA8F31EA447602,destroyed
+supplier 0,stealth,1FTMF1CW3AF188448,lost in action
+supplier 0,hover,WAUHGAFC6CN359069,destroyed
+supplier 1,glider,3D7TP2CT7BG702623,active
+supplier 0,recon,SAJWA1CB0CL464288,active
+supplier 3,aerial,WAUAVAFD0CN039987,reserve
+supplier 4,recon,JTHBB1BA6C2852956,undergoing upgrades
+supplier 1,glider,2G4WS55J051453657,under maintenance
+supplier 0,high-altitude uav,2T1BU4EE0CC158857,in transit
+supplier 5,reconnaissance uav,WVGAV3AX2DW567165,under repair
+supplier 0,fixed-wing uav,WA1CGAFE4ED277603,undergoing training
+supplier 3,nano,19UUA66234A225489,standby
+supplier 1,fixed-wing uav,JA32U2FU2DU982095,destroyed
+supplier 0,surveillance uav,3N1CE2CP0EL111504,critical condition
+supplier 4,high-altitude uav,JN8AF5MR1DT150054,reserve
+supplier 5,vtol,19VDE1F51DE679701,covert operation
+supplier 5,surveillance,JTDBT4K36C1979813,covert operation
+supplier 1,stealth,1G6DP5E37C0322493,under maintenance
+supplier 4,reconnaissance uav,1G6D25EY3B0873805,in transit
+supplier 4,aerial,JM1NC2NF7E0116017,retired
+supplier 2,high-altitude uav,1FBSS3BL3AD326866,under maintenance
+supplier 4,recon,WAUXD68D82A279298,inactive
+supplier 0,surveillance,SCBLE37G56C536522,temporary storage
+supplier 3,surveillance uav,1GYS4BEF7ER095059,destroyed
+supplier 5,surveillance uav,2FMGK5D83FB526788,reserve
+supplier 0,mav,1G4GG5E31CF379906,surveillance mode
+supplier 4,mini,1D7CW3GK3AS431500,reassigned
+supplier 2,glider,WAUAC48H45K183814,lost in action
+supplier 1,stealth,WAURFAFRXCA464362,lost in action
+supplier 5,stealth recon,1G6DA5EY6B0616818,retired
+supplier 2,armed uav,2C3CCAJG1EH165245,in development
+supplier 4,fixed-wing uav,JN8AZ1MU9AW769242,recalled
+supplier 0,tactical,WA1YD54B24N223935,reserve
+supplier 1,mav,2C3CDXEJ2EH838372,under repair
+supplier 5,armed uav,WBABS53492E823219,active
+supplier 4,tactical,3C4PDCDG7DT827854,inactive
+supplier 5,hover,1G4PS5SK1D4546529,lost in action
+supplier 2,nano,1G6DA1E35C0063917,emergency standby
+supplier 0,reconnaissance uav,WAUDFAFL8DN157384,retired
+supplier 0,recon,WAUBH78E16A173116,covert operation
+supplier 1,security,1G6DL8EG6A0649545,reserve
+supplier 0,armed uav,JH4KC1F35EC399189,recalled
+supplier 4,stealth recon,WBAYE4C5XFD322050,recalled
+supplier 1,micro,1FTEW1C82AK093120,awaiting deployment
+supplier 1,glider,YV1672MK5D2799808,under maintenance
+supplier 1,armed uav,3D73M4CL2BG793255,temporary storage
+supplier 0,hover,KNAGM4A74B5488765,under maintenance
+supplier 3,armed uav,WAUAF98E37A879115,in development
+supplier 1,mini,19XFB4F34EE009120,in development
+supplier 3,surveillance uav,KMHFH4JG6FA559881,under analysis
+supplier 5,hover,WBSKG9C57DE266035,inactive
+supplier 4,surveillance,WBADW3C59BE638985,awaiting deployment
+supplier 0,aerial,WAUVC68E42A994873,under repair
+supplier 3,nano,5N1BA0NC5FN348148,recalled
+supplier 2,mini,2FMDK3AK8DB989594,covert operation
+supplier 1,security,5J6TF1H50EL751035,undergoing upgrades
+supplier 2,vtol,1D7RV1CT4AS445230,reassigned
+supplier 0,nano,WAUMR94E69N862279,temporary storage
+supplier 2,mini,JN1BY1AP9DM048410,destroyed
+supplier 0,vtol,SCBFR7ZAXDC538006,inactive
+supplier 1,recon,WBAWL73528P954458,active
+supplier 4,hover,KNDJN2A24E7416522,in transit
+supplier 2,hover,WA1VFAFL9EA419102,undergoing upgrades
+supplier 2,recon,JM1CW2CL7F0510772,reserve
+supplier 0,aerial,2C3CCABG6DH368337,in development
+supplier 3,hover,5UMCN93402L408805,under analysis
+supplier 3,high-altitude uav,SCBBB7ZH6EC074665,under analysis
+supplier 4,nano,WAUVF78K59A904613,temporary storage
+supplier 1,aerial,1GYUCGEF7AR885495,under maintenance
+supplier 0,stealth recon,WP0CA2A84CS466288,undergoing upgrades
+supplier 1,hover,WAUBFCFL3CN014943,surveillance mode
+supplier 1,hover,WAUDFBFL2AN092470,temporary storage
+supplier 0,tactical,1HGCR6F5XFA558998,under maintenance
+supplier 2,surveillance uav,JM1NC2MF6D0080854,critical condition
+supplier 5,aerial,3C4PDCAB8ET837030,surveillance mode
+supplier 3,fixed-wing uav,1GKUCHE04AR965414,temporary storage
+supplier 2,glider,JH4DC54833S226496,covert operation
+supplier 3,aerial,1FTKR1AD4BP286223,awaiting deployment
+supplier 2,mav,1C4RDJDG5DC828431,under maintenance
+supplier 4,security,1FTEW1CM6DF155743,under analysis
+supplier 0,high-altitude uav,1FMNE1BW3AD316851,reassigned
+supplier 5,autonomous,1N6AF0LX6FN348549,undergoing testing
+supplier 0,surveillance,1FTEW1C8XAK922466,critical condition
+supplier 4,surveillance,1C4RDJAG1EC756147,temporary storage
+supplier 2,stealth,WA1YD64B25N745424,under analysis
+supplier 2,autonomous,WBADT43492G199779,destroyed
+supplier 3,armed uav,WUAPV54B13N047900,under maintenance
+supplier 4,recon,WAUGGBFC2CN234538,awaiting deployment
+supplier 0,mini,JN1AZ4EH6CM740524,reserve
+supplier 1,aerial,WAUAH94F88N606030,retired
+supplier 1,recon,3GTU2YEJ6CG344802,active
+supplier 2,hover,2V4RW3DG1BR722770,reassigned
+supplier 0,tactical,5N1AN0NW8FN084322,awaiting deployment
+supplier 3,stealth,JTMHY7AJ2A4208094,destroyed
+supplier 5,fixed-wing uav,1G6DC8E50C0170152,awaiting deployment
+supplier 2,autonomous,1G4HD57297U383317,destroyed
+supplier 0,surveillance,KMHHT6KD8BU294106,temporary storage
+supplier 2,surveillance uav,5N1AL0MM8DC453291,in development
+supplier 5,security,3N1AB6AP9CL776845,temporary storage
+supplier 4,tactical,1GT01ZCG7CF767503,reserve
+supplier 5,tactical,JN1AZ4EH2CM970318,in development
+supplier 2,surveillance uav,1FMJK1F59AE651504,destroyed
+supplier 1,fixed-wing uav,WP0AB2A82FK947360,covert operation
+supplier 2,vtol,WBAFV3C57FD120526,awaiting deployment
+supplier 5,glider,1D7RB1GK1BS811690,destroyed
+supplier 1,nano,1G6YV36A475601532,active
+supplier 4,glider,JN8AE2KP8D9301276,undergoing upgrades
+supplier 1,recon,WBSKG9C58DE004802,under evaluation
+supplier 4,autonomous,WP1AE2A23CL107219,undergoing upgrades
+supplier 1,high-altitude uav,3D7TT2CT9AG883055,retired
+supplier 5,hover,WP0CB2A88CS594403,awaiting deployment
+supplier 4,mini,5N1AA0NE0FN431273,lost in action
+supplier 2,micro,YV1672MK0A2343713,surveillance mode
+supplier 3,surveillance uav,WVWED7AJXDW417316,under evaluation
+supplier 5,vtol,2FMGK5BC1AB936523,active
+supplier 2,stealth,WBA6B2C54ED821851,under repair
+supplier 3,mini,5GAKVBKD6FJ528166,undergoing testing
+supplier 4,autonomous,5N1AN0NU2FN969484,recalled
+supplier 1,tactical,1FADP3E28FL388794,under repair
+supplier 2,micro,YV1902AH9D1198174,retired
+supplier 1,high-altitude uav,2G4WC552271038154,reserve
+supplier 5,nano,1FTEW1C88AK329317,reassigned
+supplier 4,hover,1GTN1UEH2EZ361502,covert operation
+supplier 3,surveillance uav,WVGAV7AX8CW146394,inactive
+supplier 4,mini,1D7RW3GK2BS124282,undergoing upgrades
+supplier 4,aerial,4T1BF1FK8FU274176,covert operation
+supplier 0,stealth recon,5N1AN0NUXDN207968,under maintenance
+supplier 2,vtol,KL4CJCSB3EB585107,under maintenance
+supplier 1,nano,2G61V5S84F9247688,awaiting deployment
+supplier 4,armed uav,WAUUL78E75A717107,emergency standby
+supplier 2,fixed-wing uav,SAJWA0E73D8020054,critical condition
+supplier 5,surveillance uav,WDDHF7GB4EB573468,under analysis
+supplier 4,surveillance uav,WBABV13405J846402,in development
+supplier 4,stealth recon,3GYVKMEF4AG532606,reassigned
+supplier 1,autonomous,WUAUUAFG4F7628033,recalled
+supplier 3,tactical,2C3CDXHG5CH741499,standby
+supplier 4,mini,YV4952BZ7E1328594,under repair
+supplier 5,autonomous,WDDEJ7EB0BA643456,temporary storage
+supplier 4,armed uav,3C63DRHL6CG131395,under analysis
+supplier 0,surveillance,SAJWA0HPXEM546010,standby
+supplier 5,fixed-wing uav,JN1AZ4EH1AM579934,retired
+supplier 0,recon,2C4RVAAG7CR490571,reserve
+supplier 1,reconnaissance uav,5UXWX9C56E0160181,retired
+supplier 5,surveillance,WAUMR94E18N083080,under maintenance
+supplier 1,nano,JTDBT4K32B1809396,standby
+supplier 1,security,WVGAV7AX5CW229703,undergoing testing
+supplier 0,micro,2G4WD582881323340,inactive
+supplier 2,recon,1HGCR2E31DA497224,under repair
+supplier 0,recon,WA1LFAFP0DA903961,inactive
+supplier 5,surveillance uav,1GYS3GEF0BR761657,reserve
+supplier 4,nano,WBSVA93598E724274,emergency standby
+supplier 1,recon,3D7LP2ET6AG377359,retired
+supplier 4,mav,1C3CCBCG2EN515864,surveillance mode
+supplier 2,armed uav,1G6DP8E30D0104656,under maintenance
+supplier 2,high-altitude uav,1GYUCDEF3AR248523,destroyed
+supplier 1,micro,1G6AH5R34F0566486,surveillance mode
+supplier 3,high-altitude uav,1FTEX1CWXAK197446,undergoing testing
+supplier 4,surveillance,WAUBF98E28A688842,reassigned
+supplier 2,nano,SAJWA1CB2CL510557,critical condition
+supplier 0,security,WBASN2C50DC850063,in development
+supplier 2,fixed-wing uav,5UXFG4C53AL879190,in development
+supplier 0,vtol,1N4CL2AP1AC827412,lost in action
+supplier 0,autonomous,WAUSH94F87N397391,in transit
+supplier 4,micro,WAUHF98P66A512434,inactive
+supplier 0,reconnaissance uav,WAUAC48H14K135038,active
+supplier 2,tactical,1N6AD0CU3EN288739,inactive
+supplier 5,security,SCFHDDAJ3CA583010,covert operation
+supplier 1,reconnaissance uav,1FTSX2B53AE123656,destroyed
+supplier 5,autonomous,1GYS3DEF1DR122415,under analysis
+supplier 3,glider,5NPDH4AE5DH613574,reassigned
+supplier 1,nano,WUARL48H04K287997,reserve
+supplier 3,micro,1C3BCBEB1DN540072,undergoing training
+supplier 5,surveillance uav,WBAYE8C50ED666508,under repair
+supplier 5,armed uav,5GAKRBKD1EJ698423,under evaluation
+supplier 1,recon,1G4GG5G36DF102506,recalled
+supplier 4,stealth recon,JM1NC2EF8A0154186,undergoing upgrades
+supplier 4,mini,WBAYE0C56ED090148,reserve
+supplier 4,nano,JH4CW2H66DC526913,undergoing upgrades
+supplier 0,surveillance uav,1FTEX1C82AF675045,in transit
+supplier 0,autonomous,1FTDS3EL8AD328273,reassigned
+supplier 4,surveillance,SCBBB7ZHXCC385643,undergoing testing
+supplier 1,reconnaissance uav,4T1BK3DB4BU460978,surveillance mode
+supplier 2,surveillance,JTHBE1BL7FA328993,under maintenance
+supplier 3,high-altitude uav,WAUKH98E36A203955,under analysis
+supplier 2,vtol,WBAYB6C57ED397310,covert operation
+supplier 4,micro,1GD02XEGXFZ968762,surveillance mode
+supplier 4,autonomous,JTEBU5JR4B5866857,emergency standby
+supplier 2,high-altitude uav,WA1YD54B32N357270,under maintenance
+supplier 5,armed uav,3GTXKYEJ3AG769680,inactive
+supplier 1,glider,JH4DB75591S920075,recalled
+supplier 1,surveillance,WBA3B1G54FN232897,undergoing testing
+supplier 2,surveillance,SCFFBCCD6AG700801,reassigned
+supplier 1,surveillance uav,2HNYD18255H432986,destroyed
+supplier 2,aerial,1FTEX1CM8BK615633,emergency standby
+supplier 1,mini,JTDKDTB39E1047938,under repair
+supplier 1,mav,JM1NC2JF0B0173564,surveillance mode
+supplier 2,mav,4USDU53487L638016,lost in action
+supplier 5,nano,WBA3A9C56DF217347,under evaluation
+supplier 0,vtol,5UXFA53523L260140,active
+supplier 5,reconnaissance uav,3C6JD7CT4CG326740,covert operation
+supplier 3,micro,WAUBF98E98A789991,lost in action
+supplier 4,stealth,1G6AC5S34D0910131,destroyed
+supplier 5,hover,5TDDK4CC2AS409463,under maintenance
+supplier 1,surveillance uav,WA1CGBFE2ED348156,reserve
+supplier 0,surveillance uav,WBALY1C50ED045715,in transit
+supplier 3,nano,5GAKRBED0CJ717844,recalled
+supplier 2,reconnaissance uav,19UUA65635A288369,under maintenance
+supplier 4,armed uav,WAUCH74F79N094453,under maintenance
+supplier 4,surveillance,JH4NA12632T066195,critical condition
+supplier 4,recon,1G6DM577290070718,under maintenance
+supplier 5,hover,1GYS4KEFXBR490641,critical condition
+supplier 4,aerial,5FPYK1F24AB885700,in transit
+supplier 4,glider,2C3CDYBT8EH312257,active
+supplier 0,recon,3VW467AT7DM559627,reassigned
+supplier 5,mini,1GYFK63817R444206,covert operation
+supplier 0,stealth,1C3CDZCB5EN621218,undergoing training
+supplier 4,mini,19XFA1E39BE242280,under analysis
+supplier 5,fixed-wing uav,3LNDL2L36BR936682,covert operation
+supplier 4,aerial,1G4HP57226U862376,covert operation
+supplier 1,stealth,WAULD54B44N359979,reassigned
+supplier 5,armed uav,1C3CCBBB8EN925431,active
+supplier 4,aerial,JH4DC23111S291556,recalled
+supplier 5,hover,1HGCP2E35CA820405,recalled
+supplier 0,reconnaissance uav,SCFHDDAJ7CA101817,reassigned
+supplier 1,surveillance uav,WBAYE4C52DD258888,reserve
+supplier 3,recon,WA1WKBFP9AA254929,reserve
+supplier 3,surveillance,WVGAV3AX6DW055733,critical condition
+supplier 1,reconnaissance uav,WBA8Z5C55FG265166,in development
+supplier 0,surveillance,WAUWFAFR1BA295883,emergency standby
+supplier 0,mini,SCFAB01A98G642324,critical condition
+supplier 5,hover,1FTEX1CM3BF618559,under repair
+supplier 5,micro,WAUGF98K79A083311,under repair
+supplier 4,nano,1D7RW3BK2BS043418,undergoing testing
+supplier 2,hover,2T1BURHE3FC569764,retired
+supplier 2,stealth,JH4DC54815S481649,temporary storage
+supplier 3,armed uav,1G4GB5ER8CF740583,recalled
+supplier 2,surveillance,3N1CN7AP5EK263591,temporary storage
+supplier 1,fixed-wing uav,1G6KF54924U441837,inactive
+supplier 3,glider,WBA5B1C55ED853259,under analysis
+supplier 3,hover,1G6DL67A080051779,covert operation
+supplier 3,surveillance,WAUAH68D91A249932,critical condition
+supplier 4,vtol,WAUYGAFC8DN766098,undergoing testing
+supplier 5,reconnaissance uav,3D7JB1EKXAG033685,reassigned
+supplier 0,tactical,WBAKG1C53CE587297,active
+supplier 0,mav,5GAKRBED1CJ269663,in transit
+supplier 3,reconnaissance uav,JHMGE8G38DC344743,awaiting deployment
+supplier 3,vtol,JM1DE1HY9B0729474,surveillance mode
+supplier 2,micro,SAJWA4HA6EM784049,emergency standby
+supplier 0,stealth,JTDBT4K3XB4464522,undergoing training
+supplier 4,stealth,WBAEP33492P732796,undergoing testing
+supplier 0,surveillance uav,WAULT58E54A979285,surveillance mode
+supplier 4,reconnaissance uav,5FNYF3H21FB807887,undergoing upgrades
+supplier 2,nano,JTHFE2C22A2616176,in development
+supplier 2,mini,SALFR2BG9EH275907,in development
+supplier 3,armed uav,WBAYA8C55FD143692,emergency standby
+supplier 2,stealth recon,YV1612FH4E2102472,surveillance mode
+supplier 2,autonomous,WAUSH78E47A829309,critical condition
+supplier 0,mav,1FT7W2A66EE509934,retired
+supplier 4,mav,WAUBFAFL7BA129359,inactive
+supplier 4,stealth recon,2HNYD18743H194802,active
+supplier 3,fixed-wing uav,1D7CE3BK5AS309795,undergoing training
+supplier 1,stealth recon,1FTEX1CW9AF513685,inactive
+supplier 2,mini,WA1DGAFE2CD543802,reassigned
+supplier 4,hover,WBAKB83559C144726,lost in action
+supplier 0,security,1FTEX1CM3CF699418,emergency standby
+supplier 2,hover,5N1AA0NC8FN077744,awaiting deployment
+supplier 5,high-altitude uav,WP0AA2A81EK131175,standby
+supplier 1,autonomous,3N1CN7AP8FL688458,under analysis
+supplier 4,security,1D7RB1CT2BS460268,in development
+supplier 3,mav,1GD422CG5EF249863,in development
+supplier 0,micro,WBA3N7C53EK299166,temporary storage
+supplier 0,vtol,2HNYD2H36CH481108,destroyed
+supplier 2,stealth,1G6DP577060800466,standby
+supplier 3,autonomous,1GYS4AEF4DR047446,under analysis
+supplier 0,stealth,2T1BURHE3EC213992,covert operation
+supplier 0,vtol,WBAKA83559C919707,inactive
+supplier 1,autonomous,1G6DC1E35E0300791,awaiting deployment
+supplier 5,surveillance uav,3D4PG4FB4AT661032,undergoing upgrades
+supplier 3,mav,5N1AA0NC4BN589916,reserve
+supplier 0,nano,JM3KE2BEXF0216209,reassigned
+supplier 5,fixed-wing uav,WBANU5C5XAC746466,retired
+supplier 0,mav,1D4PU5GK0BW829189,critical condition
+supplier 0,mav,WBA3C3C53EK756959,undergoing training
+supplier 4,mini,5TDBKRFH0ES249679,in transit
+supplier 5,security,JTDZN3EU8E3657480,reassigned
+supplier 1,mav,WDDHF2EB7CA430958,inactive
+supplier 4,micro,WDCGG0EB3DG703961,active
+supplier 3,armed uav,WAUBFBFL5AN549876,in development
+supplier 3,stealth recon,SALFR2BN9CH062998,undergoing training
+supplier 4,high-altitude uav,WBAEH73425C994076,recalled
+supplier 3,stealth recon,1D4PU6GX9BW032909,covert operation
+supplier 1,surveillance uav,WAUAF68E05A025078,undergoing upgrades
+supplier 0,glider,JTEBU5JR1F5923084,in transit
+supplier 4,hover,1N4AL2AP9CN518933,recalled
+supplier 4,high-altitude uav,1G6KH5E62BU269093,under maintenance
+supplier 1,fixed-wing uav,1G6DP1E33C0341681,critical condition
+supplier 5,armed uav,SCFFBCCD4AG442620,temporary storage
+supplier 3,micro,JA32X8HW7DU415373,recalled
+supplier 5,surveillance uav,2V4RW3DG1BR190436,under evaluation
+supplier 0,security,WAUAFAFC1CN020790,temporary storage
+supplier 0,surveillance uav,1D4SE6GT6BC408195,critical condition
+supplier 2,surveillance,2D4RN3DG7BR656659,awaiting deployment
+supplier 5,mav,WVWAP7AN9EE490418,reassigned
+supplier 0,mav,19UUA66216A186601,reassigned
+supplier 1,hover,19UUA65676A929444,under maintenance
+supplier 0,vtol,5FRYD4H29EB398157,surveillance mode
+supplier 4,surveillance,5UMDU93417L450804,reserve
+supplier 2,micro,2G4GT5GV5D9100347,undergoing training
+supplier 2,security,JM3KE2BE3F0211935,recalled
+supplier 1,armed uav,JM1DE1HY6B0873046,destroyed
+supplier 5,surveillance uav,WBAUP93539V996402,undergoing testing
+supplier 4,surveillance uav,1GYS4HKJ6FR953120,active
+supplier 3,recon,SCBCR63W85C440224,emergency standby
+supplier 1,recon,4JGBF2FB8AA361978,temporary storage
+supplier 4,glider,JTHDU1EF4E5842146,standby
+supplier 1,stealth,JN1BJ0HP4FM850922,temporary storage
+supplier 1,mini,JM3TB2MAXA0694842,destroyed
+supplier 4,armed uav,5NPEB4AC9DH039422,lost in action
+supplier 4,micro,3D7TT2CT9AG671398,lost in action
+supplier 2,micro,JHMZF1C40BS804279,destroyed
+supplier 2,tactical,JTHBL5EF3D5538869,reassigned
+supplier 0,surveillance uav,WDDHF2EB9BA914385,in transit
+supplier 4,stealth,1C4NJPBA5DD820347,under repair
+supplier 2,recon,KMHFH4JG6FA249908,under maintenance
+supplier 3,surveillance uav,WVGEF9BP5ED929342,awaiting deployment
+supplier 4,glider,WBAWV13587P399151,reserve
+supplier 2,aerial,1FTEW1C85AK179537,temporary storage
+supplier 5,surveillance uav,2LMDJ6JKXDB269256,under repair
+supplier 1,hover,3D4PG6FV8AT758496,active
+supplier 3,autonomous,WBAVC53567A705016,critical condition
+supplier 5,aerial,1FTWW3CYXAE933952,inactive
+supplier 5,autonomous,KNALN4D79F5789206,undergoing upgrades
+supplier 4,security,WAUHGAFC3DN734255,inactive
+supplier 4,high-altitude uav,4T1BD1FK1DU192891,destroyed
+supplier 0,hover,WAU4FBFL5BA133697,reassigned
+supplier 3,mav,3VW4T7AT6DM531147,undergoing upgrades
+supplier 2,glider,SCFAB42393K524688,undergoing training
+supplier 1,aerial,WA1YL64B05N581481,covert operation
+supplier 2,reconnaissance uav,3GYFK628X8G086025,reassigned
+supplier 5,fixed-wing uav,WAUBFAFL9AN577223,critical condition
+supplier 2,high-altitude uav,5NPDH4AE0CH126748,temporary storage
+supplier 0,micro,YV4902NBXF1695083,emergency standby
+supplier 2,surveillance uav,WBAFU7C59BD685154,awaiting deployment
+supplier 4,armed uav,WA1DGAFP4DA955482,emergency standby
+supplier 5,tactical,1FTSW2B54AE733732,under repair
+supplier 0,security,JN1CV6FE4BM719061,standby
+supplier 1,stealth,1C4RDJAG9DC249785,reassigned
+supplier 3,reconnaissance uav,1G6YV36A485215517,inactive
+supplier 5,aerial,4T1BF1FK1CU370467,in development
+supplier 3,recon,1G6DS57V190341496,undergoing upgrades
+supplier 3,reconnaissance uav,5N1AR2MM2EC923391,under repair
+supplier 5,recon,WAUHF98P68A623066,under repair
+supplier 1,aerial,5TDDK3DC9DS623427,under repair
+supplier 0,mav,1B3CB4HA5AD497814,inactive
+supplier 3,surveillance uav,1GKKRNED2FJ332584,temporary storage
+supplier 5,stealth recon,3GTU2YEJ4DG185974,critical condition
+supplier 0,autonomous,1GD12XEG6FF581339,under repair
+supplier 2,stealth recon,1ZVBP8AN4A5412453,under analysis
+supplier 3,fixed-wing uav,5FRYD3H45GB032596,covert operation
+supplier 4,nano,1GKS1GEJXBR106734,undergoing training
+supplier 3,hover,2T1BU4EE9DC657335,retired
+supplier 5,aerial,1G4HP57M39U173940,undergoing training
+supplier 4,nano,WAUJ2AFD5FN670246,under repair
+supplier 1,hover,WAUVT68E63A104441,under evaluation
+supplier 0,recon,4JGBF2FE4CA459791,critical condition
+supplier 2,autonomous,2C4RDGCG1FR266364,covert operation
+supplier 1,armed uav,1FTEX1EWXAF046953,undergoing testing
+supplier 4,nano,WAUML54D91N309230,inactive
+supplier 3,recon,WAUDF98EX8A001969,covert operation
+supplier 3,autonomous,JN1BJ0HPXDM421054,under analysis
+supplier 5,glider,2FMDK4KC5AB837751,emergency standby
+supplier 5,hover,1G6DM8EG7A0103009,undergoing upgrades
+supplier 3,mini,WAUKGAFB6AN281385,reserve
+supplier 2,surveillance,1J4PR4GK2AC097988,in transit
+supplier 5,vtol,JH4CU25649C828685,inactive
+supplier 4,armed uav,WA1DGBFP6DA900389,reserve
+supplier 4,micro,19UUA76617A506073,temporary storage
+supplier 2,micro,1VWAS7A35FC934465,surveillance mode
+supplier 4,recon,1FMJK1H58EE285327,reassigned
+supplier 2,mini,1N6AA0CA2FN273133,covert operation
+supplier 1,stealth,WBAYP1C50FD989718,temporary storage
+supplier 5,vtol,WAUDFAFLXCA986690,reassigned
+supplier 3,micro,JTHBP5C22B5036260,emergency standby
+supplier 0,stealth recon,1N6AA0CC5CN056429,under evaluation
+supplier 5,micro,19UUA9F73EA690014,undergoing training
+supplier 2,nano,5GADT13S242456606,lost in action
+supplier 3,aerial,3GYEK62N64G081884,under evaluation
+supplier 2,reconnaissance uav,3FAHP0HA2AR936107,under analysis
+supplier 0,vtol,WBAVA33538P373321,undergoing testing
+supplier 0,hover,1G6DS8ED3B0995322,inactive
+supplier 0,security,1G6AJ1R36F0274125,under repair
+supplier 4,nano,SCFFBCCD0AG152276,destroyed
+supplier 2,mini,1GYFC26219R909969,reserve
+supplier 5,micro,WAUAFAFL7BN856201,retired
+supplier 4,recon,1G6AJ1R33F0677897,inactive
+supplier 0,security,WBAEN334X2P615511,destroyed
+supplier 3,vtol,JM3TB2BAXC0391212,covert operation
+supplier 4,tactical,KMHHT6KD7EU172826,undergoing training
+supplier 3,nano,3VWML7AJ5DM531221,recalled
+supplier 3,mav,1C3CDZCB8EN557370,undergoing training
+supplier 4,nano,JN8AF5MR9DT076009,undergoing upgrades
+supplier 1,micro,1G6DA8E58D0304994,reserve
+supplier 2,vtol,2T1BU4EE6DC317009,under analysis
+supplier 1,reconnaissance uav,4T1BD1FK5DU572476,reassigned
+supplier 2,reconnaissance uav,WA1LKBFP8AA114776,reserve
+supplier 3,autonomous,WAUMFAFL3AN928619,in development
+supplier 4,stealth recon,1GYFK33209R303270,recalled
+supplier 1,mav,SAJWA2GZ3E8717977,under evaluation
+supplier 0,tactical,KMHGN4JE5FU700370,retired
+supplier 3,surveillance uav,WBA3V9C55FP066700,reserve
+supplier 5,surveillance uav,JN8AZ2KR2AT451968,inactive
+supplier 1,hover,1FTEW1C85AF298925,in development
+supplier 3,micro,1GD311CG6FZ227637,inactive
+supplier 5,surveillance uav,WBALL5C54DE569643,emergency standby
+supplier 0,reconnaissance uav,WBAYG6C55FD666195,reassigned
+supplier 2,security,3VW4A7AT3DM400246,awaiting deployment
+supplier 1,aerial,WP0AB2A94FS473601,awaiting deployment
+supplier 5,glider,WBABV13424J710786,reassigned
+supplier 1,mav,3VW1K7AJ3DM985974,destroyed
+supplier 5,aerial,1N4AA5AP3AC084637,undergoing upgrades
+supplier 1,armed uav,WAURFAFR9CA976680,in development
+supplier 0,aerial,1FTWW3A56AE683814,reserve
+supplier 5,hover,WVWED7AJ5AW843071,surveillance mode
+supplier 0,nano,1G6DM57N340680196,temporary storage
+supplier 1,recon,SCBFU7ZA2DC319152,under analysis
+supplier 2,recon,SALAF2D4XAA529617,critical condition
+supplier 3,armed uav,1GYS3AEF0BR716358,reserve
+supplier 4,mav,WAUJC58E45A925324,undergoing training
+supplier 0,armed uav,KNDMG4C76E6107586,retired
+supplier 3,nano,5NPEB4AC7BH616378,under analysis
+supplier 4,hover,WAUVC68E15A721989,inactive
+supplier 2,glider,1G4HP54K43U218135,under repair
+supplier 4,hover,JHMZF1C44BS045488,critical condition
+supplier 3,mini,5XYKT3A12BG119822,recalled
+supplier 0,surveillance uav,5XYZT3LB3DG072341,under maintenance
+supplier 2,stealth recon,KMHEC4A46EA810736,inactive
+supplier 2,vtol,1G4GA5GC0BF576174,critical condition
+supplier 0,high-altitude uav,WBAYA6C54FD370232,retired
+supplier 1,nano,1G6DS8E39C0838953,reserve
+supplier 0,stealth,5XXGM4A76DG163438,standby
+supplier 5,stealth,3C3CFFCRXET286141,covert operation
+supplier 1,fixed-wing uav,WBAYF4C56FD517320,covert operation
+supplier 0,stealth,JH4KB16658C427817,undergoing training
+supplier 2,fixed-wing uav,WBAKF5C53BE062281,undergoing upgrades
+supplier 1,surveillance uav,1G6DA5EY0B0350955,temporary storage
+supplier 3,security,JN1AZ4EH3CM062556,active
+supplier 2,stealth recon,WA1WMAFE6AD698383,undergoing testing
+supplier 3,mav,5GADT13S252312362,under evaluation
+supplier 0,mini,JN1AZ4FH9FM360435,standby
+supplier 4,armed uav,1D7CW3BK1AS361406,lost in action
+supplier 5,micro,WAULT68E23A399786,critical condition
+supplier 5,stealth recon,1FTWX3D59AE322859,recalled
+supplier 1,stealth recon,WDDNG7DB4DA498473,recalled
+supplier 3,hover,3C3CFFCR4FT402192,reserve
+supplier 0,security,WDCGG5GB7AF201465,undergoing training
+supplier 4,security,1FMCU9D76AK111017,undergoing training
+supplier 5,surveillance uav,WBSWD93588P385166,covert operation
+supplier 2,stealth,WAUCFAFR9AA510105,standby
+supplier 5,stealth,5UXKR6C56F0458870,in transit
+supplier 2,armed uav,1ZVBP8JZ0E5179115,reserve
+supplier 4,surveillance uav,5N1CR2MN2EC423555,retired
+supplier 1,fixed-wing uav,SAJWA4HA6EM992609,recalled
+supplier 5,vtol,WBAFV3C57ED454912,standby
+supplier 5,glider,4T1BD1EB1EU370382,active
+supplier 2,armed uav,3D73M4EL8BG461141,inactive
+supplier 5,surveillance,WBAUL7C56CV977558,undergoing upgrades
+supplier 3,surveillance uav,1C4SDHCT0EC487871,recalled
+supplier 1,mav,WAUML64BX3N985032,in development
+supplier 1,stealth recon,1N6AF0KX7FN718912,reserve
+supplier 3,mini,JN8AZ2NC0D9977623,retired
+supplier 0,security,2G4GN5EX8E9525982,reassigned
+supplier 0,recon,5J8TB3H54GL105806,temporary storage
+supplier 2,tactical,VNKJTUD34FA653674,in development
+supplier 0,stealth recon,SAJWJ0EF9E8979869,retired
+supplier 0,nano,WAULK78KX9A403719,retired
+supplier 0,armed uav,WA1WMBFE4FD496798,retired
+supplier 3,glider,5N1AA0NC0EN698622,temporary storage
+supplier 4,tactical,1GTG5AE34F1347391,inactive
+supplier 3,fixed-wing uav,WDDLJ6HBXFA580739,active
+supplier 0,surveillance,JN8AF5MR0BT305741,covert operation
+supplier 5,micro,3C6TD4DT6CG645188,under maintenance
+supplier 2,armed uav,1G4GD5GR2CF452159,reassigned
+supplier 1,autonomous,WAUJT68E54A027920,under maintenance
+supplier 1,surveillance,5TDDK3DC1DS764587,retired
+supplier 4,surveillance uav,WBABV13474J378649,emergency standby
+supplier 3,stealth recon,WA1AM94L99D416680,destroyed
+supplier 4,glider,KMHCM3AC5AU362231,recalled
+supplier 0,recon,SALVP1BG8FH134758,temporary storage
+supplier 2,armed uav,5J8TB4H54FL142097,under maintenance
+supplier 0,stealth,WBA3A5C53FP854556,undergoing upgrades
+supplier 5,autonomous,1G6DL5EY5B0196883,critical condition
+supplier 4,mini,JN8CS1MW0FM015745,standby
+supplier 4,micro,1FTEX1C88AK349905,awaiting deployment
+supplier 0,surveillance uav,1GYS4FEJ3CR418127,recalled
+supplier 4,reconnaissance uav,5GAKVCED1BJ037063,temporary storage
+supplier 2,recon,3N1AB6AP2AL285059,destroyed
+supplier 4,mini,KM8JT3AF2FU264527,inactive
+supplier 1,aerial,1FTWW3CY2AE228725,critical condition
+supplier 4,tactical,1G6DJ8EGXA0610544,under evaluation
+supplier 0,stealth,5N1AR1NB1AC393433,reassigned
+supplier 0,fixed-wing uav,WAUAF98E15A208491,reassigned
+supplier 5,reconnaissance uav,WBAKB0C50AC426777,reserve
+supplier 2,nano,1GYEC63T54R867475,under evaluation
+supplier 3,surveillance uav,1G4GD5ED9BF977600,under analysis
+supplier 3,hover,WBAPK5C52BA516674,covert operation
+supplier 3,nano,WUARL48H99K130315,undergoing testing
+supplier 5,aerial,1G4HK5E98AU281987,under repair
+supplier 0,surveillance,WBAEW53412P689277,destroyed
+supplier 0,hover,WBAGL63403D782639,covert operation
+supplier 4,vtol,WAUHF68P96A803153,undergoing testing
+supplier 0,fixed-wing uav,1GD02ZCGXBZ037140,in development
+supplier 0,stealth recon,2T1BURHE8EC927438,standby
+supplier 3,fixed-wing uav,WAUDN74F18N740937,covert operation
+supplier 5,glider,JN8AF5MR5BT128779,standby
+supplier 2,security,1GD12YEG1FF914181,undergoing upgrades
+supplier 2,micro,WVGAV3AX6EW949300,in transit
+supplier 5,autonomous,WP0AB2A83CU194843,critical condition
+supplier 4,recon,WUARL48H17K274289,undergoing training
+supplier 3,armed uav,WVGAV7AX4CW701325,lost in action
+supplier 2,surveillance uav,1G6KS54Y83U861202,destroyed
+supplier 0,reconnaissance uav,WAUCFAFH9FN995238,undergoing upgrades
+supplier 2,hover,1G6KY54932U213031,in transit
+supplier 0,autonomous,2G61W5S86F9764200,undergoing testing
+supplier 0,mav,1GKS1GEJ5CR589647,temporary storage
+supplier 0,stealth recon,1G6DW677850180991,reassigned
+supplier 5,nano,3N1CN7AP4FL394247,retired
+supplier 3,hover,JN8AE2KP8F9601399,critical condition
+supplier 2,aerial,WAUXL68E64A787526,under analysis
+supplier 1,stealth recon,1G6DN57S550922720,in transit
+supplier 4,high-altitude uav,WAUEH48H27K332310,awaiting deployment
+supplier 3,recon,1FMCU9D76AK565512,under analysis
+supplier 4,high-altitude uav,WAUDL74F16N958735,standby
+supplier 5,recon,5TDDK3DC2CS917640,covert operation
+supplier 3,security,1N4AA5AP2BC692232,lost in action
+supplier 0,tactical,WBXPC9C49AW966759,under repair
+supplier 0,tactical,WUARL48H37K067533,destroyed
+supplier 4,tactical,1C4SDJET3CC517964,under maintenance
+supplier 3,tactical,1G4HR57Y08U802579,standby
+supplier 5,tactical,1YVHZ8BH0A5996067,reassigned
+supplier 3,mini,4JGCB2FE5AA941683,awaiting deployment
+supplier 2,stealth recon,1C4RDHAG4EC442291,destroyed
+supplier 2,security,1FTWW3B53AE451380,reserve
+supplier 4,micro,1GYS4KEF6BR380928,under maintenance
+supplier 4,security,WA1YD54B92N224772,in transit
+supplier 4,surveillance,1GYUKJEF0AR992923,recalled
+supplier 1,hover,1G6DX67D960271756,covert operation
+supplier 3,surveillance uav,1FTEX1EW7AF893199,in transit
+supplier 1,aerial,JN1BJ0HR9EM632653,inactive
+supplier 1,hover,1GKKRNED0CJ941328,surveillance mode
+supplier 1,recon,1FTMF1CW2AK459264,destroyed
+supplier 4,stealth,2HNYD28828H942677,under maintenance
+supplier 0,autonomous,5UXFB33503L495959,active
+supplier 1,armed uav,SCBBB7ZH2BC773951,temporary storage
+supplier 5,nano,3D7TT2CT5BG520642,critical condition
+supplier 3,surveillance,KMHHT6KD8AU092235,recalled
+supplier 4,high-altitude uav,WAUEFBFL3AN908428,standby
+supplier 2,armed uav,1GYS3GKJ6FR349158,undergoing testing
+supplier 5,armed uav,WDDHF5KB9EA711992,inactive
+supplier 4,surveillance uav,WAUVT58E53A822850,standby
+supplier 3,aerial,JM3KE2BE4D0931807,active
+supplier 0,high-altitude uav,JN8AF5MR5ET970476,recalled
+supplier 5,fixed-wing uav,WP1AE2A25EL266777,undergoing testing
+supplier 0,reconnaissance uav,WAUDH48H07K550743,in development
+supplier 5,fixed-wing uav,SCBLF44J57C221773,undergoing upgrades
+supplier 2,stealth,WAULT68EX2A560948,under evaluation
+supplier 0,armed uav,1G6AM5SX4D0387628,under analysis
+supplier 4,hover,1GD021EG9FZ619606,under evaluation
+supplier 5,stealth recon,WBAVC73507K645823,inactive
+supplier 4,hover,4USFE83527L222513,critical condition
+supplier 5,mini,1FTMF1CW3AF118576,surveillance mode
+supplier 5,hover,JTHBF5C24D5707336,retired
+supplier 0,surveillance uav,5FPYK1F23BB561672,reassigned
+supplier 0,glider,1C3CDFCB7ED015231,undergoing testing
+supplier 4,tactical,WA1CV94L67D235135,retired
+supplier 4,glider,2C3CDXDT8DH543827,under maintenance
+supplier 4,surveillance uav,JHMZE2H35DS937390,awaiting deployment
+supplier 1,micro,1D7RB1CT5AS092618,standby
+supplier 5,security,3C4PDDDG7FT349105,awaiting deployment
+supplier 4,surveillance,1FTEX1CM5BF037340,reserve
+supplier 5,tactical,JN8AF5MR5BT196662,reserve
+supplier 3,reconnaissance uav,1FAHP3HN6AW446772,under repair
+supplier 2,fixed-wing uav,3C6JD7EP0CG632625,undergoing training
+supplier 0,glider,3N1BC1CP3CK817140,inactive
+supplier 1,stealth recon,1FMJK1H54DE020175,destroyed
+supplier 1,stealth recon,3VWJX7AJ3AM299558,critical condition
+supplier 4,mav,19UUA9F76DA493935,undergoing training
+supplier 5,tactical,19UUA66244A351036,emergency standby
+supplier 4,autonomous,SCFHDDAJ9CA008281,recalled
+supplier 2,high-altitude uav,WBA3C3G5XEN553771,destroyed
+supplier 4,glider,5UXFG2C54CL166676,temporary storage
+supplier 2,recon,5FNRL5H20CB358609,reserve
+supplier 3,mini,3GYFNGEY6AS935028,covert operation
+supplier 4,fixed-wing uav,1N6AA0CC2FN375923,reassigned
+supplier 0,armed uav,WDDLJ6FB5FA085349,lost in action
+supplier 4,fixed-wing uav,WDDPK4HA1CF560274,undergoing testing
+supplier 0,reconnaissance uav,4A4AP3AU1DE045596,lost in action
+supplier 5,reconnaissance uav,WAUKFBFL7AA789910,under maintenance
+supplier 2,recon,5UXWX9C51F0567701,active
+supplier 5,armed uav,WBA4C9C51FG883964,recalled
+supplier 1,tactical,JTJBM7FX7E5975242,awaiting deployment
+supplier 2,vtol,JTHKD5BHXC2051817,reassigned
+supplier 3,glider,WBANW53579C597729,under repair
+supplier 4,tactical,1FTWX3B55AE266146,emergency standby
+supplier 2,surveillance,1N4AB7AP2EN809681,inactive
+supplier 0,aerial,4T1BD1EB5EU044181,undergoing testing
+supplier 4,fixed-wing uav,WBAUN93578V205065,undergoing training
+supplier 5,fixed-wing uav,JTDKTUD32ED020066,covert operation
+supplier 4,fixed-wing uav,19UUA765X7A441599,under repair
+supplier 0,aerial,5UXWX5C58BL438307,destroyed
+supplier 2,mav,1G4GA5GR9EF395423,awaiting deployment
+supplier 2,autonomous,5UXFB93523L075994,under evaluation
+supplier 2,surveillance uav,1B3CB3HA6BD284771,undergoing upgrades
+supplier 2,autonomous,5GADX23L26D771951,reserve
+supplier 2,vtol,JTDJTUD39ED194700,recalled
+supplier 4,security,WAUJGAFD5FN595419,under analysis
+supplier 0,high-altitude uav,WBANU53559B648589,emergency standby
+supplier 2,autonomous,WBAGL63423D694157,inactive
+supplier 0,surveillance uav,1FTEX1CM6BK823154,reserve
+supplier 0,glider,SCFAD22393K897048,standby
+supplier 1,glider,JTHDU1EF3C5590855,undergoing testing
+supplier 5,armed uav,3D7TP2CT0AG717415,surveillance mode
+supplier 5,fixed-wing uav,WBABN33422P023409,undergoing testing
+supplier 1,mav,1N6AD0CW9FN154742,emergency standby
+supplier 2,hover,5TFCW5F1XCX729126,surveillance mode
+supplier 5,tactical,KNDPB3ACXE7197292,awaiting deployment
+supplier 2,nano,WAUGVAFR0AA678493,destroyed
+supplier 0,stealth,KL4CJESBXDB403252,undergoing upgrades
+supplier 3,stealth recon,WAUEH78E98A670544,undergoing training
+supplier 0,mav,WBS3C9C56FP481574,temporary storage
+supplier 3,stealth recon,WBAWC73528E395716,emergency standby
+supplier 0,armed uav,WAUWGAFC4EN461013,reassigned
+supplier 5,nano,5UXWX9C50DL257924,under maintenance
+supplier 0,armed uav,1G4CU541434605410,under repair
+supplier 2,fixed-wing uav,SALVN2BG4FH181054,undergoing upgrades
+supplier 2,surveillance uav,4USBT53433L427309,temporary storage
+supplier 5,autonomous,1C4RDJEG5EC139795,lost in action
+supplier 1,security,JH4NA12643T205512,reassigned
+supplier 2,stealth recon,4T1BF1FK9EU267221,retired
+supplier 2,reconnaissance uav,1G6KD57YX8U812158,recalled
+supplier 4,aerial,19UUA56883A812185,undergoing testing
+supplier 3,mini,SCBZB25E12C696826,awaiting deployment
+supplier 1,security,SCBLF34F66C353641,standby
+supplier 1,glider,5UXZV8C55D0735012,reassigned
+supplier 3,surveillance,4A31K3DT3AE219203,emergency standby
+supplier 5,mav,WBS3U9C59FP126119,lost in action
+supplier 1,autonomous,JM3TB2BA1B0540427,covert operation
+supplier 2,surveillance,5FRYD3H67GB842071,undergoing training
+supplier 1,autonomous,JH4DC446X1S364171,under analysis
+supplier 4,autonomous,SCFFDAAM8DG131973,awaiting deployment
+supplier 4,autonomous,5J8TB18219A290762,in development
+supplier 4,autonomous,5XYKT3A11DG818894,undergoing testing
+supplier 4,nano,W04GZ5GV6B1523100,under evaluation
+supplier 1,surveillance uav,2G4WC582481635058,covert operation
+supplier 5,armed uav,5GAKRAKD9EJ590304,recalled
+supplier 5,mav,1C4RDHAG2CC841696,covert operation
+supplier 3,recon,WBS3C9C59FJ238666,temporary storage
+supplier 0,aerial,1FTEX1CM3DF827884,reserve
+supplier 4,nano,WBA8Z5C54FD986760,reassigned
+supplier 4,fixed-wing uav,WAUHF78P38A309962,under maintenance
+supplier 4,mini,19UYA42672A873820,lost in action
+supplier 2,tactical,1N4AA5AP5DC435889,awaiting deployment
+supplier 1,high-altitude uav,WAUSH78E06A661683,lost in action
+supplier 0,reconnaissance uav,TRUWX28N611576047,under maintenance
+supplier 5,security,4USBU53577L558772,destroyed
+supplier 1,nano,WVGAV3AX6EW760470,undergoing testing
+supplier 1,glider,KNAFU6A24D5951731,retired
+supplier 4,fixed-wing uav,WAULT64B93N277057,standby
+supplier 3,stealth,WBSDE93442C395235,covert operation
+supplier 2,recon,1C3CDZBG1CN526875,temporary storage
+supplier 4,fixed-wing uav,JM3ER2W32A0956615,recalled
+supplier 3,mav,JTHBE1BL3FA833445,undergoing testing
+supplier 3,micro,5BZBF0AA7EN503159,undergoing upgrades
+supplier 4,autonomous,WAUDGAFL2EA601512,undergoing upgrades
+supplier 1,recon,WAUAFAFL8CA022365,undergoing upgrades
+supplier 1,recon,1G4GA5GR5EF158444,surveillance mode
+supplier 4,surveillance,WBAKB83569C785934,standby
+supplier 4,stealth,WA1VMBFE6AD554706,temporary storage
+supplier 4,surveillance uav,1FMCU9E71AK261700,in transit
+supplier 2,tactical,19VDE1F56FE776170,under analysis
+supplier 2,micro,3C63DRNL3CG797795,destroyed
+supplier 4,glider,SAJWA6BU8F8420482,critical condition
+supplier 1,tactical,WBA6A0C57FG315521,undergoing upgrades
+supplier 0,armed uav,SCBCU7ZA6BC939342,in transit
+supplier 0,surveillance uav,2GKALMEK4E6077566,undergoing training
+supplier 5,recon,1G6AW5SX5F0890842,in development
+supplier 0,tactical,5FRYD4H23GB763192,undergoing upgrades
+supplier 5,hover,4F2CY0C70AK610064,covert operation
+supplier 4,fixed-wing uav,3N6CM0KN6EK859861,temporary storage
+supplier 2,surveillance uav,1FMJK1FT6FE654205,under repair
+supplier 3,reconnaissance uav,5FRYD3H4XGB316371,under repair
+supplier 0,reconnaissance uav,WBAPL5G52BN925869,active
+supplier 0,surveillance,JN8AS1MU0CM007162,under maintenance
+supplier 0,mav,WAUGGBFC3DN505947,critical condition
+supplier 2,vtol,JM1NC2LF3C0300838,undergoing training
+supplier 0,armed uav,WAUWFAFL6AA258788,recalled
+supplier 5,autonomous,WBANB53566C319931,temporary storage
+supplier 4,fixed-wing uav,KNDMG4C7XE6494336,in development
+supplier 4,mav,JTDKDTB3XF1203759,reassigned
+supplier 2,tactical,2C3CDXCT1FH905338,temporary storage
+supplier 0,reconnaissance uav,JN8AZ1MU1AW591259,retired
+supplier 2,aerial,19XFA1E56AE142301,critical condition
+supplier 1,mini,3D73Y4EL3BG135526,standby
+supplier 2,reconnaissance uav,1G6KE54Y13U034102,in development
+supplier 5,nano,KMHCT4AE3DU698250,awaiting deployment
+supplier 0,high-altitude uav,3C4PDDEGXFT958042,destroyed
+supplier 2,surveillance,1C6RD6NT3CS085918,under maintenance
+supplier 3,recon,2C3CCAKGXFH185669,in development
+supplier 1,high-altitude uav,SCFAD02E49G409271,in development
+supplier 1,tactical,3C6TD5MT1CG556831,destroyed
+supplier 3,aerial,1GYUCBEF3AR458091,in transit
+supplier 0,aerial,W04GS5EC2B1849529,critical condition
+supplier 1,tactical,WUARL48H59K943134,destroyed
+supplier 4,security,WAUKD78P39A617775,active
+supplier 3,high-altitude uav,3C3CFFBR1CT459138,reassigned
+supplier 1,stealth,1FTEX1CM0DF837305,retired
+supplier 1,hover,WAUDFAFL9AN669067,in development
+supplier 1,recon,WBALL5C55DJ672769,undergoing training
+supplier 1,armed uav,SAJWA6AT3F8418700,awaiting deployment
+supplier 5,surveillance uav,WAUVC58E52A128447,standby
+supplier 2,high-altitude uav,1G6AX5S35E0453903,undergoing testing
+supplier 5,high-altitude uav,JH4CU2F43DC069999,destroyed
+supplier 0,surveillance,WAUET48H96K711835,undergoing training
+supplier 1,security,JA32U1FU0AU693013,retired
+supplier 0,armed uav,5TDBY5G1XDS432062,undergoing upgrades
+supplier 5,mav,WA1CGAFP4EA400173,destroyed
+supplier 3,vtol,WBAVB735X8V743938,reserve
+supplier 0,recon,1NXBU4EE3AZ725171,active
+supplier 5,surveillance uav,WAUFFAFL0BN153075,lost in action
+supplier 5,nano,WA1AV94L79D831266,under repair
+supplier 5,fixed-wing uav,JTDZN3EU3E3484788,under repair
+supplier 0,aerial,1GKS1HE06BR312971,emergency standby
+supplier 3,reconnaissance uav,3C6TD4DT8CG053582,inactive
+supplier 4,vtol,5J6TF1H32BL180917,undergoing training
+supplier 2,autonomous,SAJWA4HAXEM077522,lost in action
+supplier 1,mini,1C4RDJDG1DC102288,retired
+supplier 5,glider,1N6AA0ED3FN647725,destroyed
+supplier 0,surveillance uav,1VWAS7A32FC629683,under repair
+supplier 1,stealth recon,WAUHF78P47A542814,under analysis
+supplier 0,armed uav,SALVN2BG3DH221105,lost in action
+supplier 1,hover,WAUBC48H15K814796,emergency standby
+supplier 1,armed uav,1FMJK1G53DE039513,covert operation
+supplier 3,mav,WAUAFAFL6EA492560,covert operation
+supplier 0,vtol,WAUXL58E44A587075,reassigned
+supplier 4,glider,WBA3C3C5XFK841539,in development
+supplier 4,vtol,4A31K2DF4BE729727,in transit
+supplier 5,reconnaissance uav,WP1AA2AP7AL260657,covert operation
+supplier 3,micro,1FTEW1CW7AK760276,critical condition
+supplier 4,mav,2V4RW3DG3BR587002,undergoing training
+supplier 0,recon,5UXZV4C58CL675538,under evaluation
+supplier 1,security,3C63DRLL4CG284266,undergoing upgrades
+supplier 4,recon,1GTN1TEH0EZ986572,lost in action
+supplier 4,stealth,WBAAW33451E822748,under repair
+supplier 2,mav,5TDBKRFH5ES048215,reserve
+supplier 3,tactical,3C4PDCAB4FT091810,covert operation
+supplier 5,nano,1G6KH5EY0AU927025,lost in action
+supplier 3,high-altitude uav,WBADX1C5XBE682785,critical condition
+supplier 3,reconnaissance uav,WAUSF78E78A004629,awaiting deployment
+supplier 5,surveillance,WA1YD54B34N146542,under repair
+supplier 5,reconnaissance uav,1GT020CG7EF886941,undergoing training
+supplier 1,nano,WBA3D3C58FK504414,emergency standby
+supplier 4,autonomous,JN1AZ4EH3DM643105,critical condition
+supplier 4,glider,4USBT33515L105557,retired
+supplier 5,mini,1FTSX2B59AE816117,in development
+supplier 4,stealth recon,WBA3A5C56DF555811,undergoing training
+supplier 4,tactical,1N4AL2AP1CN091814,awaiting deployment
+supplier 0,reconnaissance uav,5UXWX9C58F0036639,temporary storage
+supplier 4,fixed-wing uav,1GTN1TEX6DZ783384,under evaluation
+supplier 3,micro,SALVP2BG7FH373983,under maintenance
+supplier 0,autonomous,JTJHY7AX1A4256672,surveillance mode
+supplier 2,stealth recon,1FMJK1G54BE151198,undergoing testing
+supplier 1,micro,SAJWA0JH9EM528715,standby
+supplier 1,recon,5UMCL93402L678641,in transit
+supplier 5,glider,1D4RD3GG8BC101839,under repair
+supplier 3,mav,JN8CS1MUXEM787408,active
+supplier 2,tactical,KMHGH4JH0CU465938,recalled
+supplier 0,stealth,JM1NC2EF5A0655875,active
+supplier 5,high-altitude uav,KL4CJGSB0FB418874,inactive
+supplier 5,micro,WAUNF98P18A361833,under maintenance
+supplier 2,aerial,WDDHH8JB9FB678713,reassigned
+supplier 2,reconnaissance uav,3C63DRGL5CG769543,retired
+supplier 2,armed uav,3D4PG9FV2AT740092,temporary storage
+supplier 0,nano,2FMGK5C89FB487335,under evaluation
+supplier 4,glider,WDDLJ9BB9FA482876,destroyed
+supplier 4,tactical,WBA3B1C59FP009796,reserve
+supplier 3,security,2G4GR5GX9E9665105,active
+supplier 5,mini,JN8AF5MR1CT810933,under evaluation
+supplier 0,hover,WBALM7C54EJ869555,covert operation
+supplier 2,recon,3GTU1YEJ3BG617289,standby
+supplier 3,surveillance uav,JN1CV6EK0EM194155,under maintenance
+supplier 0,vtol,3N1AB6APXAL214899,reserve
+supplier 3,hover,1FMJK1H58BE157584,under evaluation
+supplier 2,stealth,WBAHN835X8D656069,undergoing upgrades
+supplier 0,stealth recon,1GYS3BKJ3FR281274,reassigned
+supplier 3,hover,1G6DK5E35D0415898,under analysis
+supplier 0,nano,KMHHT6KD6AU533697,in development
+supplier 3,micro,JH4DC53892C205467,undergoing testing
+supplier 0,surveillance uav,WBAUC9C55CV705711,under evaluation
+supplier 2,stealth,WAUPFAFM0BA257604,recalled
+supplier 2,armed uav,WAU3MAFD1FN936025,under evaluation
+supplier 1,glider,WDDHF0EB5EA100145,reserve
+supplier 4,recon,WBAYE4C5XED961317,in transit
+supplier 5,surveillance,5J8TB4H30DL939863,retired
+supplier 5,glider,5LMJJ3J54CE158807,active
+supplier 3,mini,3N1AB6AP1AL549601,retired
+supplier 3,surveillance uav,3D7TT2CT0BG588623,under analysis
+supplier 2,reconnaissance uav,2C4RDGCG6CR148788,under analysis
+supplier 2,recon,1FMJK1H54BE827051,awaiting deployment
+supplier 1,fixed-wing uav,WBA4A7C56FG409566,destroyed
+supplier 2,glider,JHMZF1C6XFS895388,covert operation
+supplier 1,autonomous,WBAWR3C53AP525553,in development
+supplier 2,nano,WBSWD93589P350385,emergency standby
+supplier 3,surveillance,1N6AD0CU6AC648639,in development
+supplier 0,surveillance,55SWF4JB4FU497434,under evaluation
+supplier 0,recon,WAUGL78E75A836921,undergoing training
+supplier 4,fixed-wing uav,3N1CN7AP2DL396852,standby
+supplier 0,nano,5TFAW5F18EX871937,in development
+supplier 4,fixed-wing uav,SALVP2BG1FH049413,retired
+supplier 5,high-altitude uav,1D4RD5GG4BC142559,standby
+supplier 3,mav,WBAUN7C53BV255148,critical condition
+supplier 5,surveillance uav,SCBCR73W48C480858,under repair
+supplier 2,nano,WAUKH78EX7A187680,covert operation
