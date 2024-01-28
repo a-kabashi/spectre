@@ -214,6 +214,7 @@ A- Relational:
 			5- contacts:
 				contacts (0-9).CSV
 			6- secret_identities:
+				SIDs (0-9).CSV
 			7- missions:
 			8- has:
 			9- participated_in:

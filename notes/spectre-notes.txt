@@ -1,5 +1,6 @@
 unfinished:
-	- target description
+	- reset serial data_type.
+	- target description.
 	- date order.
 	- empty contacts to date {done}
 document:
