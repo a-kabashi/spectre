@@ -212,6 +212,7 @@ A- Relational:
 				assets_CE (0-9).CSV
 				assets_drone (0-9).CSV
 			5- contacts:
+				contacts (0-9).CSV
 			6- secret_identities:
 			7- missions:
 			8- has:

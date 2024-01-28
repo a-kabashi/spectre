@@ -67,6 +67,16 @@ A- Relational:
 						for row in reader:
 							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'drone\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
 			5- contacts:
+				import csv
+				with open('contacts.csv', newline='') as csvfile:
+					reader = csv.reader(csvfile)
+					next(reader, None)
+					for row in reader:
+						if row[6]:
+							print(f'INSERT INTO contacts(phone, email, address_line1, city, country, from_date, to_date) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\',\'{row[6]}\');')
+						else:
+							print(f'INSERT INTO contacts(phone, email, address_line1, city, country, from_date) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\');')
+
 			6- secret_identities:
 			7- missions:
 			8- has:

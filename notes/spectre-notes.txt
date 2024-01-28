@@ -1,0 +1,7 @@
+unfinished:
+	- target description
+	- date order.
+	- empty contacts to date {done}
+document:
+	- versions.
+	- date order.
