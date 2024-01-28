@@ -84,6 +84,14 @@ A- Relational:
 					for row in reader:
 						print(f'INSERT INTO secret_identities(sid_type, sid_nationality, sid_other_details, sid_status, sid_issue_date, sid_exp_date) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\');')
 			7- missions:
+				import csv
+				i = 0
+				with open('missions.csv', newline='') as csvfile:
+					reader = csv.reader(csvfile)
+					next(reader, None)
+					for row in reader:
+						i+=1
+						print(f'INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\',{i});')
 			8- has:
 			9- participated_in:
 			10- used_in:
