@@ -1,8 +1,10 @@
 unfinished:
-	- reset serial data_type.
-	- target description.
+	- reset serial data_type.         {Done}
 	- date order.
-	- empty contacts to date {done}
+	- foreign keys to the data.
+	- target description.
+	- empty contacts to date          {done}
+	- data cooking
 document:
 	- versions.
 	- date order.

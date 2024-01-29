@@ -94,16 +94,34 @@ A- Relational:
 						print(f'INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\',{i});')
 			8- has:
 				import random
-				i = 50000
+				i = 40000
+				lower_a = 1
+				lower_s = 0
+				upper_a = 10000
+				upper_s = 197
+				while (i >= 1):
+					agents = random.randint(lower_a, upper_a)
+					skills = random.randint(lower_s, upper_s)
+					print(f'INSERT INTO has(acode, skill_code) VALUES({agents},{skills});')
+					i-=1
+			9- participated_in:
+				import random
+				i = 40000
 				lower = 1
 				upper = 10000
 				while (i >= 1):
-					c = random.randint(lower, upper)
-					d = random.randint(lower, upper)
-					print(c)
-					print(d)
-					print(f'INSERT INTO has(acode, skill_code) VALUES({c},{d});')
+					agents = random.randint(lower, upper)
+					missions = random.randint(lower, upper)
+					print(f'INSERT INTO participate_in(acode, mid) VALUES({agents},{missions});')
 					i-=1
-			9- participated_in:
 			10- used_in:
+				import random
+				i = 40000
+				lower = 1
+				upper = 10000
+				while (i >= 1):
+					assets = random.randint(lower, upper)
+					missions = random.randint(lower, upper)
+					print(f'INSERT INTO used_in(asid, mid) VALUES({assets},{missions});')
+					i-=1
 			

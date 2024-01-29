@@ -6,4 +6,7 @@ A- Relational:
 	3- data population.
 
 B- MongoDB:
+	1- schema.
+	2- python.
+	3- data.
 C- Neo4j:
