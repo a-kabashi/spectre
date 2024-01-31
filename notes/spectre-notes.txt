@@ -1,7 +1,7 @@
 unfinished:
 	- reset serial data_type.         {Done}
+	- foreign keys to the data (data population)
 	- date order.
-	- foreign keys to the data.
 	- target description.
 	- empty contacts to date          {done}
 	- data cooking
@@ -9,3 +9,5 @@ document:
 	- versions.
 	- date order.
 	- file nubmber in archive => mission description
+	
+	Al J   ī  b

@@ -2,7 +2,7 @@ A- Relational:
 	3- data population:
 		data:
 			1- agents:
-				targets (0-19).CSV
+				targets (0-9).CSV
 			2- skills:
 				INSERT INTO skills(skill_type, skill_level) VALUES('arabic',0);
 				INSERT INTO skills(skill_type, skill_level) VALUES('arabic',1);

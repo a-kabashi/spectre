@@ -3,19 +3,18 @@ A- Relational:
 		python:
 		
 			1- agents:
-				with open('MOCK_DATA.csv', newline='') as csvfile:
+				import csv
+				with open('agents.csv', newline='') as csvfile:
 					reader = csv.reader(csvfile)
 					next(reader, None)
 					for row in reader:
 						print(f'INSERT INTO agents(fname, lname, dob, gender, nationality, security_level, agent_type, agent_status) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',{row[5]},\'{row[6]}\',\'{row[7]}\');')
-			
 			2- skills:
 				skill_type = ["arabic","mandarin chinese","spanish","english","hindi","bengali","portuguese","russian","urdu","indonesian","marksmanship","hand-to-hand combat","infiltration and stealth","survival skills","covert communication","tactical thinking","interrogation techniques","undercover operations","surveillance","hacking and cybersecurity","first aid and medical training","negotiation","escape and evasion","demolitions","technical expertise","physical fitness","psychological warfare","sniper skills","asset handling","diplomacy","technical surveillance","environmental adaptability","legal acumen"]
 				skill_level = [0,1,2,3,4,5]
 				for st in skill_type:
 					for sl in skill_level:
 						print(f'INSERT INTO skills(skill_type, skill_level) VALUES(\'{st}\',{sl});')
-			
 			3- targets:
 				import csv
 				with open('targets.csv', newline='') as csvfile:
@@ -68,14 +67,16 @@ A- Relational:
 							print(f'INSERT INTO assets(astype, asmake, asmodel, astag, asstatus) VALUES(\'drone\',\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\');')
 			5- contacts:
 				import csv
-				with open('contacts.csv', newline='') as csvfile:
+				import random
+				with open('contacts (4).csv', newline='') as csvfile:
 					reader = csv.reader(csvfile)
 					next(reader, None)
 					for row in reader:
+						acode = random.randint(1, 10000)
 						if row[6]:
-							print(f'INSERT INTO contacts(phone, email, address_line1, city, country, from_date, to_date) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\',\'{row[6]}\');')
+							print(f'INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date, to_date) VALUES({acode},\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\',\'{row[6]}\');')
 						else:
-							print(f'INSERT INTO contacts(phone, email, address_line1, city, country, from_date) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\');')
+							print(f'INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date) VALUES({acode},\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\');')
 			6- secret_identities:
 				import csv
 				with open('SIDs.csv', newline='') as csvfile:
