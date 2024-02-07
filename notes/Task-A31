@@ -85,44 +85,44 @@ A- Relational:
 					for row in reader:
 						print(f'INSERT INTO secret_identities(sid_type, sid_nationality, sid_other_details, sid_status, sid_issue_date, sid_exp_date) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\');')
 			7- missions:
+				tid = 0
 				import csv
-				i = 0
 				with open('missions.csv', newline='') as csvfile:
 					reader = csv.reader(csvfile)
 					next(reader, None)
 					for row in reader:
-						i+=1
-						print(f'INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\',{i});')
+						tid+=1
+						print(f'INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES(\'{row[0]}\',\'{row[1]}\',\'{row[2]}\',\'{row[3]}\',\'{row[4]}\',\'{row[5]}\',{tid});')
 			8- has:
 				import random
-				i = 40000
+				counter = 40000
 				lower_a = 1
-				lower_s = 0
+				lower_s = 1
 				upper_a = 10000
 				upper_s = 197
-				while (i >= 1):
+				while (counter >= 0):
 					agents = random.randint(lower_a, upper_a)
 					skills = random.randint(lower_s, upper_s)
 					print(f'INSERT INTO has(acode, skill_code) VALUES({agents},{skills});')
-					i-=1
+					counter-=1
 			9- participated_in:
 				import random
-				i = 40000
+				counter = 40000
 				lower = 1
 				upper = 10000
-				while (i >= 1):
+				while (counter >= 0):
 					agents = random.randint(lower, upper)
 					missions = random.randint(lower, upper)
 					print(f'INSERT INTO participate_in(acode, mid) VALUES({agents},{missions});')
-					i-=1
+					counter-=1
 			10- used_in:
 				import random
-				i = 40000
+				counter = 40000
 				lower = 1
 				upper = 10000
-				while (i >= 1):
+				while (counter >= 1):
 					assets = random.randint(lower, upper)
 					missions = random.randint(lower, upper)
 					print(f'INSERT INTO used_in(asid, mid) VALUES({assets},{missions});')
-					i-=1
-			
+					counter-=1
+							

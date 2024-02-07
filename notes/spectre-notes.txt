@@ -1,6 +1,6 @@
 unfinished:
 	- reset serial data_type.         {Done}
-	- foreign keys to the data (data population)
+	- foreign keys to the data (data population) {Done}
 	- date order.
 	- target description.
 	- empty contacts to date          {done}
