@@ -141,7 +141,7 @@ INSERT INTO missions(start_date, end_date, general_description, city, country, m
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2010-09-14','2015-08-06','163 731 5529','Eastern Suburbs Mc','AU','active',141);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2011-07-31','2013-07-09','650 640 4011','Port Sudan','SD','cancelled',142);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2012-03-22','2023-04-08','357 520 5599','Kasembon','ID','rescue',143);
-INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2008-06-22','2011-04-30','385 370 9167','Debrzno','PL','completed',144);
+INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2008-06-22','2009-11-12','385 370 9167','Debrzno','PL','completed',144);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2015-06-06','2010-01-27','530 638 5243','Balun','ID','infiltration',145);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2008-09-13','2013-02-07','329 232 6550','Coolock','IE','extraction',146);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2013-10-31','2027-05-07','704 199 2255','Arnoia','PT','compromised',147);
@@ -358,7 +358,7 @@ INSERT INTO missions(start_date, end_date, general_description, city, country, m
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2022-03-14','2017-10-29','706 600 1839','Port Sudan','SD','undercover',358);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2011-03-28','2014-03-27','855 858 1052','Dengfang','CN','rescue',359);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2010-01-27','2030-03-03','200 608 3636','Primorsko-Akhtarsk','RU','interception',360);
-INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2017-12-24','2029-03-21','962 643 7833','Warburton','PK','compromised',361);
+INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2017-12-24','2018-03-5','962 643 7833','Warburton','PK','compromised',361);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2017-09-29','2007-09-27','219 340 9542','Manuel Cavazos Lerma','MX','undercover surveillance',362);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2020-01-11','2019-10-30','156 674 8398','Hetang','CN','high priority',363);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2008-03-22','2029-02-06','289 352 6908','Xingbin','CN','infiltration',364);
@@ -995,7 +995,7 @@ INSERT INTO missions(start_date, end_date, general_description, city, country, m
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2019-10-17','2017-10-17','433 156 9954','Tyrawa WoÅ‚oska','PL','compromised',995);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2008-01-26','2023-08-09','695 607 4783','Ravne','SI','extraction',996);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2021-01-13','2025-07-25','371 588 4893','Lillehammer','NO','under review',997);
-INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2020-05-15','2006-06-19','813 574 3007','Ngampon','ID','undercover surveillance',998);
+INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2020-05-15','2006-06-19','813 574 3007','Port Sudan','SD','completed',998);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2009-12-12','2014-05-31','323 853 9636','Port Sudan','SD','delayed',999);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2012-02-16','2020-02-11','725 381 7898','Zhujiaqiao','CN','surveillance',1000);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2016-12-21','2032-09-06','582 558 5248','Villeurbanne','FR','under review',1001);

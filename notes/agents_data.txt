@@ -9998,3 +9998,117 @@ INSERT INTO agents(fname, lname, dob, gender, nationality, security_level, agent
 INSERT INTO agents(fname, lname, dob, gender, nationality, security_level, agent_type, agent_status) VALUES('Annamaria','Spurling','1969-10-25','F','CZ',7,'psychological warfare specialist','injured');
 INSERT INTO agents(fname, lname, dob, gender, nationality, security_level, agent_type, agent_status) VALUES('Rourke','Elecum','1975-05-17','M','CO',8,'counterterrorism specialist','reconnaissance');
 INSERT INTO agents(fname, lname, dob, gender, nationality, security_level, agent_type, agent_status) VALUES('Wilbert','Bussel','1970-02-27','M','NG',3,'counterintelligence agent','standby');
+UPDATE agents
+SET
+fname = 'Ibra',
+lname = 'Rekwid',
+dob = '1985-10-8',
+gender = 'M',
+nationality = 'SD',
+security_level = 6,
+agent_type = 'undercover agent'
+where acode = 13;
+
+UPDATE agents
+SET
+fname = 'Sonia',
+lname = 'Adam',
+dob = '1975-7-9',
+gender = 'F',
+nationality = 'MO',
+security_level = 8,
+agent_type = 'assassin'
+where acode = 1992;
+
+UPDATE agents
+SET
+fname = 'Debo',
+lname = 'Habib',
+dob = '1983-4-15',
+gender = 'M',
+nationality = 'ET',
+security_level = 8,
+agent_type = 'combat specialist'
+where acode = 10;
+
+UPDATE agents
+SET
+fname = 'Jastin',
+lname = 'Thomas',
+dob = '1975-2-20',
+gender = 'M',
+nationality = 'IN',
+security_level = 4,
+agent_type = 'escape and evasion expert'
+where acode = 5264;
+
+UPDATE agents
+SET
+fname = 'Tok',
+lname = 'Peter',
+dob = '1999-11-8',
+gender = 'F',
+nationality = 'EG',
+security_level = 3,
+agent_type = 'cyber operative'
+where acode = 2079;
+
+UPDATE agents
+SET
+fname = 'Damahi',
+lname = 'Shamon',
+dob = '2004-2-13',
+gender = 'M',
+nationality = 'JM',
+security_level = 7,
+agent_type = 'underwater specialist'
+where acode = 7332;
+
+UPDATE agents
+SET
+fname = 'Naomi',
+lname = 'Ishma',
+dob = '1998-5-2',
+gender = 'F',
+nationality = 'VN',
+security_level = 2,
+agent_type = 'Information Security Engineer'
+where acode = 4895;
+
+UPDATE agents
+SET
+fname = 'Sama',
+lname = 'Diab',
+dob = '1991-8-23',
+gender = 'F',
+nationality = 'GH',
+security_level = 2,
+agent_type = 'medical specialist'
+where acode = 988;
+
+UPDATE agents
+SET
+fname = 'Ariana',
+lname = 'Lawrence',
+dob = '2001-10-24',
+gender = 'F',
+nationality = 'US',
+security_level = 6,
+agent_type = 'sniffer'
+where acode = 83;
+
+UPDATE agents
+SET
+fname = 'Sheba',
+lname = 'Sami',
+dob = '1981-6-29',
+gender = 'M',
+nationality = 'UZ',
+security_level = 7,
+agent_type = 'undercover agent'
+where acode = 7;
+
+
+update agents set agent_status = 'recovery' where acode = 7332;
+update agents set agent_status = 'intelligence gathering' where acode = 2079;
+update agents set agent_status = '"psychological operations"' where acode = 83;
