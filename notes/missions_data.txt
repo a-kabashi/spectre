@@ -9998,3 +9998,4 @@ INSERT INTO missions(start_date, end_date, general_description, city, country, m
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2024-01-19','2024-10-19','800 138 6896','Huyuan','CN','active',9998);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2010-09-24','2024-02-19','534 649 0175','Zuru','NG','counterintelligence',9999);
 INSERT INTO missions(start_date, end_date, general_description, city, country, mstatus, tid) VALUES('2021-02-13','2033-09-03','150 698 0299','Longquan','CN','active',10000);
+update missions set mstatus = 'completed' where end_date < '2024-04-01';

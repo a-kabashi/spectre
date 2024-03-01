@@ -1,0 +1,30 @@
+1- Retrieve Agent Information.
+select * from agents where fname = 'Sonia'
+
+2- List Ongoing Missions.
+select * from missions where mstatus = 'ongoing'
+
+3- Get Contact Information for a Specific Contact.
+select * from contacts where acode = 615
+
+4- List Missions Assigned to a Specific Agent.
+select * from participate_in where acode = 10
+
+5- Retrieve Completed Missions.
+select * from missions where mstatus = 'completed'
+
+6 - Find all missions a specific asset is used for.
+select used_in.mid,used_in.asid from used_in,assets 
+where assets.astag = 'WA1VMAFE7BD052704' and used_in.asid = assets.asid
+
+7- Count the Number of Missions for Each agent.
+select acode, count(acode) as number_of_missions 
+from participate_in group by acode order by number_of_missions desc
+
+8- List Agents who are qualified (based on a set of skills and experience) that are suitable for a mission.
+9- Retrieve Missions Within a Date Range.
+10- Find Assets Assigned to Inactive Agents.
+11- List Missions Involving Multiple Agents.
+12- find the agent who used a certain secret identity in a specific region.
+13- Find all personnel involved in the operation “Belladonna” who are currently 'active', speak Russian, and who lived in London in 2021. List their code names in this operation, their roles/positions in the operation, as well as their current locations.
+14- find all the firearms that are out in the field in  a region.
