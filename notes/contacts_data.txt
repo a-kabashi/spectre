@@ -9998,4 +9998,7 @@ INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_dat
 INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date) VALUES(2760,'679 579 2811','ntowheyrp@china.com.cn','2608 Doe Crossing Terrace','Ishimbay','RU','2023-09-27');
 INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date, to_date) VALUES(3738,'128 346 1411','lmcgeacheyrq@artisteer.com','341 Petterle Avenue','Venado Tuerto','AR','2019-10-31','2014-08-02');
 INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date) VALUES(4783,'815 164 5732','rgreserrr@google.co.jp','66 Harper Point','Mantes-la-Jolie','FR','2010-12-02');
-INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date)VALUES(615,'254 356 7107','dchet13@gmail.com','579 Columbus Court','Ramalhal','PT','2020-08-13');
+INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date) VALUES(615,'254 356 7107','dchet13@gmail.com','579 Columbus Court','Ramalhal','PT','2020-08-13');
+INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date, to_date) VALUES(10,'254 356 7107','dhk77@gmail.com','38B Epple Rd','London','UK','2021-03-13','2022-02-28');
+INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date) VALUES(1992,'675 297 2010','sonia.un@hotmail.com','13 Whittingstall Rd','London','UK','2021-08-13');
+INSERT INTO contacts(acode, phone, email, address_line1, city, country, from_date, to_date) VALUES(1992,'675 297 2010','sonia.un@hotmail.com','80132 Napoli','Napoli','IT','2011-02-5','2021-08-05');

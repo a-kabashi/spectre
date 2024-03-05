@@ -119,3 +119,14 @@ A- Relational:
 			FOREIGN KEY (asid) REFERENCES assets(asid),
 			FOREIGN KEY (mid) REFERENCES missions(mid)
 		);
+		
+		
+		
+		
+		
+		
+		VIEWS:
+		CREATE VIEW current_contacts AS
+SELECT *
+FROM contacts
+WHERE to_date is null;
