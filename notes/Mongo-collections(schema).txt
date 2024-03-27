@@ -1,0 +1,11 @@
+Agents:
+- agent info
+- contacts
+- skills
+- secret_identities
+
+Missions:
+- mission info
+- Targets
+- assets
+- agents
