@@ -10,3 +10,9 @@ Missions:
 - Targets
 - assets
 - agents
+
+Assets:
+- assets info
+
+Targets:
+- target info
