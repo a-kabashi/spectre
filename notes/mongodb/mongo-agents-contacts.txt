@@ -1,0 +1,41 @@
+import psycopg2
+import pymongo
+from pymongo import MongoClient
+import datetime
+
+conn = psycopg2.connect(
+    dbname="spectre",
+    user="postgres",
+    password="123456789",
+    host="localhost",
+    port="5432"
+)
+
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+agents = db.agents  
+assets = db.assets
+missions = db.missions
+targets = db.targets
+i = 0
+while i <= 10000:
+    query = f"SELECT * FROM contacts where acode = {i}"
+    cur = conn.cursor()
+    cur.execute(query)
+    rows = cur.fetchall()
+    contacts = []
+    for row in rows:
+        doc = {
+               "acode": row[0], "phone": row[1], "email": row[2], "address_line 1": row[3], "city": row[4],
+               "country": row[5], "from_date": row[6], "to_date": row[7]
+              }
+        contacts.append(doc)
+        
+    #if contacts:
+        #print(contacts)
+    i = i+1
+
+
+cur.close()                                                           
+conn.close()
+client.close()
