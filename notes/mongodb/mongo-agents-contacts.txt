@@ -25,16 +25,26 @@ while i <= 10000:
     rows = cur.fetchall()
     contacts = []
     for row in rows:
-        doc = {
-               "acode": row[0], "phone": row[1], "email": row[2], "address_line 1": row[3], "city": row[4],
-               "country": row[5], "from_date": row[6], "to_date": row[7]
-              }
-        contacts.append(doc)
+        filter_criteria = {"acode": row[0]}
+        if row[7]:
+            doc = {
+                   "phone": row[1], "email": row[2], "address_line 1": row[3], "city": row[4],
+                   "country": row[5], "from_date": f'{row[6].year}-{row[6].month}-{row[6].day}',
+                   "to_date": f'{row[7].year}-{row[7].month}-{row[7].day}'
+                  }
+            contacts.append(doc)
+        else:
+            doc = {
+                   "phone": row[1], "email": row[2], "address_line 1": row[3], "city": row[4],
+                   "country": row[5], "from_date": f'{row[6].year}-{row[6].month}-{row[6].day}',
+                   "to_date": row[7]
+                  }
+            contacts.append(doc)
         
-    #if contacts:
-        #print(contacts)
+    if contacts:
+        new_contacts = {"$set": {'contacts': contacts}}
+        agents.update_one(filter_criteria, new_contacts)
     i = i+1
-
 
 cur.close()                                                           
 conn.close()
