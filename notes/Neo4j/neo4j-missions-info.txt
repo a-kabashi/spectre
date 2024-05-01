@@ -35,37 +35,31 @@ def run_query(query, para):
 # Mongodb
 #
 #
-projection = {'acode' : 1, 'contacts': 1}
-docs = agents.find(projection=projection)
+docs = missions.find()
 for doc in docs:
-    if "contacts" in doc:
-        for s in doc['contacts']:
-            query = '''
-                MATCH (a:Agent{acode: $acode})
-                MERGE (a)-[r:contacts]->(s:agentContacts{
-                    phone: $phone,
-                    email: $email,
-                    address_line_1: $address_line_1,
+    query = '''
+                MERGE (m:missions{
+                    mid: $mid,
+                    general_description: $general_description,
                     city: $city,
                     country: $country,
-                    from_date: $from_date,
-                    to_date: $to_date
+                    start_date: $start_date,
+                    end_date: $end_date,
+                    mstatus: $mstatus
                 })
-                RETURN a, r, s
+                RETURN m
             '''
-            para = {
-                'acode': doc['acode'],
-                'phone': s['phone'],
-                'email': s['email'],
-                'address_line_1': s['address_line 1'],
-                'city': s['city'],
-                'country': s['country'],
-                'from_date': s['from_date'],
-                'to_date': s['to_date']
+    para = {
+                'mid': doc['mid'],
+                'general_description': doc['general_description'],
+                'city': doc['city'],
+                'country': doc['country'],
+                'start_date': doc['start_date'],
+                'end_date': doc['end_date'],
+                'mstatus': doc['mstatus']
             }
 
-
-            print(run_query(query,para))
+    print(run_query(query,para))
             #print(s)
 driver.close()
 client.close()
