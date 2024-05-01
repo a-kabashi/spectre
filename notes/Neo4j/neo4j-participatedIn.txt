@@ -1,0 +1,56 @@
+import pymongo
+from pymongo import MongoClient
+from neo4j import GraphDatabase
+
+#Neo4j connection
+#
+#
+#Define the URI, username, and password for your Neo4j database
+uri = "bolt://localhost:7687"
+username = "neo4j"
+password = "123456789"
+
+# Create a connection to the database
+driver = GraphDatabase.driver(uri, auth=(username, password))
+
+
+# Mongodb Connection
+#
+#
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+agents = db.agents  
+assets = db.assets
+missions = db.missions
+targets = db.targets
+
+
+# Neo4j  
+#
+#   
+def run_query(query, para):
+    with driver.session() as session:
+        result = session.run(query, para)
+        return result
+# Mongodb
+#
+#
+docs = missions.find()
+for doc in docs:
+    if 'agents' in doc:
+        for acode in doc['agents']:
+            query = '''
+                                    MATCH (m:missions{mid:$mid})
+                                    MATCH (a:Agent{acode:$acode})
+                                    MERGE (a)-[r:participatedIn]->(m)
+                                    RETURN r
+                                '''
+            para = {
+                                'mid': doc['mid'],
+                                'acode': acode
+                                }
+
+            print(run_query(query,para))
+            #print(s)
+driver.close()
+client.close()
