@@ -8,7 +8,7 @@ SELECT *
 FROM missions 
 WHERE mstatus = 'ongoing';
 
-3- Get Contact Information for a Specific Contact.
+3- Get Contact Information for a Specific agent.
 SELECT * 
 FROM contacts 
 WHERE acode = 615;
@@ -35,8 +35,13 @@ FROM participate_in
 GROUP BY acode 
 ORDER BY number_of_missions DESC;
 
-8- List Agents who are qualified (based on a set of skills and experience) that are suitable for a mission.
------------------------------------------------------------------------
+8- List Agents who are qualified (based on a set of skills) that are suitable for a mission.
+agent who fluent in  mandarin chinese languages, has high skill and knowledge in legal acumen
+select has.acode from has
+inner join skills on has.skill_code = skills.skill_code
+where skills.skill_type in ('mandarin chinese','legal acumen') and skills.skill_level > 3
+GROUP BY has.acode
+HAVING COUNT(skills.skill_type) = 2
 
 9- Retrieve Missions Within a Date Range.
 SELECT * 
@@ -45,8 +50,11 @@ WHERE start_date BETWEEN '2010-01-01'
 AND '2010-12-31' 
 ORDER BY start_date;
 
-10- Find Assets Assigned to Inactive Agents.
---------------------------------------------
+10- Find Assets Assigned to ongoing missions.
+select used_in.asid from used_in 
+inner join missions on used_in.mid = missions.mid
+where missions.mstatus = 'ongoing'
+
 11- List Missions Involving Multiple Agents.
 SELECT mid, COUNT(acode)
 FROM participate_in
@@ -59,7 +67,8 @@ SELECT acode
 FROM secret_identities
 WHERE sid_nationality = 'CN';
 AND sid_other_details = '572-334-5595'
-13- Find all personnel involved in the operation “144” who are currently 'active', speak Russian, and who lived in London in 2021. List their code names in this operation, their roles/positions in the operation, as well as their current locations.
+
+13- Find all personnel involved in the operation “144” who are currently 'active', speak Russian, and who lived in London in 2021. List their code names in this operation,agent's type as well as their current locations.
 SELECT agents.acode, agents.agent_type, current_contacts.city
 FROM agents
 INNER JOIN participate_in ON participate_in.acode = agents.acode

@@ -21,7 +21,7 @@ client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb
 db = client.Spectre
 agents = db.agents  
 assets = db.assets
-missions = db.missions
+missions = db.missionss
 targets = db.targets
 
 

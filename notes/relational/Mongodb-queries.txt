@@ -1,0 +1,152 @@
+1- Retrieve Agent Information.
+{fname:'Sonia'}
+
+2- List Ongoing Missions.
+{mstatus:'ongoing'}
+
+3- Get Contact Information for a Specific agent
+[
+    {
+        '$match': {
+            'acode': 615
+        }
+    }, {
+        '$project': {
+            'contacts': 1
+        }
+    }
+]
+
+4- List Missions Assigned to a Specific Agent
+{agents:10}
+
+5- Retrieve Completed Missions
+{mstatus: 'completed'}
+
+6- Find all missions a specific asset is used for.
+######## need to use python
+
+7- Count the Number of Missions for Each agent
+[
+    {
+        '$unwind': {
+            'path': '$agents'
+        }
+    }, {
+        '$group': {
+            '_id': '$agents', 
+            'missions_count': {
+                '$sum': 1
+            }
+        }
+    }
+]
+
+8- List Agents who are qualified (based on a set of skills) that are suitable for a mission.
+agent who fluent in  mandarin chinese languages, has high skill and knowledge in legal acumen
+
+[
+    {
+        '$unwind': {
+            'path': '$skills'
+        }
+    }, {
+        '$match': {
+            'skills.skill_type': {
+                '$in': [
+                    'mandarin chinese', 'legal acumen'
+                ]
+            }, 
+            'skills.skill_level': {
+                '$gt': 3
+            }
+        }
+    }, {
+        '$group': {
+            '_id': '$acode', 
+            'count': {
+                '$sum': 1
+            }
+        }
+    }, {
+        '$match': {
+            'count': 2
+        }
+    }
+]
+
+
+9- Retrieve Missions Within a Date Range.
+[
+    {
+        '$match': {
+            'start_date': {
+                '$gte': '2010-01-01'
+            }, 
+            'end_date': {
+                '$lte': '2010-12-31'
+            }
+        }
+    }
+]
+
+10- Find Assets Assigned to ongoing missions
+[
+    {
+        '$match': {
+            'mstatus': 'ongoing'
+        }
+    }, {
+        '$unwind': {
+            'path': '$assets'
+        }
+    }, {
+        '$project': {
+            'assets': '$assets'
+        }
+    }
+]
+
+11- List Missions Involving Multiple Agents
+[
+    {
+        '$unwind': {
+            'path': '$agents'
+        }
+    }, {
+        '$group': {
+            '_id': '$mid', 
+            'count': {
+                '$sum': 1
+            }
+        }
+    }, {
+        '$match': {
+            'count': {
+                '$gt': 1
+            }
+        }
+    }
+]
+
+12- find the agent who used a certain secret identity.
+[
+    {
+        '$unwind': {
+            'path': '$secret_identities'
+        }
+    }, {
+        '$match': {
+            'secret_identities.sid_other_details': '572-334-5595'
+        }
+    }, {
+        '$project': {
+            'acode': '$acode'
+        }
+    }
+]
+
+13- Find all personnel involved in the operation “144” who are currently 'active', speak Russian, and who lived in London in 2021. List their code names in this operation,agent's type as well as their current locations.
+
+
+14- find all the firearms that are out in the field in a region.
