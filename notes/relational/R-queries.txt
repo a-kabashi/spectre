@@ -11,7 +11,7 @@ WHERE mstatus = 'ongoing';
 3- Get Contact Information for a Specific agent.
 SELECT * 
 FROM contacts 
-WHERE acode = 615;
+WHERE acode = 2008;
 
 4- List Missions Assigned to a Specific Agent.
 SELECT * 
@@ -24,7 +24,7 @@ FROM missions
 WHERE mstatus = 'completed';
 
 6 - Find all missions a specific asset is used for.
-SELECT used_in.mid,used_in.asid 
+SELECT used_in.mid 
 FROM used_in,assets 
 WHERE assets.astag = 'WA1VMAFE7BD052704' 
 AND used_in.asid = assets.asid;

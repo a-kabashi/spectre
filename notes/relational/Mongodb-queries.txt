@@ -8,7 +8,7 @@
 [
     {
         '$match': {
-            'acode': 615
+            'acode': 2008
         }
     }, {
         '$project': {
@@ -18,13 +18,47 @@
 ]
 
 4- List Missions Assigned to a Specific Agent
-{agents:10}
+[
+    {
+        '$match': {
+            'agents': 10
+        }
+    }, {
+        '$project': {
+            'mission': '$mid'
+        }
+    }
+]
 
 5- Retrieve Completed Missions
 {mstatus: 'completed'}
 
 6- Find all missions a specific asset is used for.
-######## need to use python
+##########################################################################
+
+[
+    {
+        '$unwind': {
+            'path': '$assets'
+        }
+    }, {
+        '$lookup': {
+            'from': 'assets', 
+            'localField': 'assets', 
+            'foreignField': 'asid', 
+            'as': 'assets'
+        }
+    }, {
+        '$project': {
+            'mid': '$mid', 
+            'asset tag': '$assets.astag'
+        }
+    }, {
+        '$match': {
+            'assets.astag': 'WA1VMAFE7BD052704'
+        }
+    }
+]
 
 7- Count the Number of Missions for Each agent
 [
@@ -147,6 +181,83 @@ agent who fluent in  mandarin chinese languages, has high skill and knowledge in
 ]
 
 13- Find all personnel involved in the operation “144” who are currently 'active', speak Russian, and who lived in London in 2021. List their code names in this operation,agent's type as well as their current locations.
+#################################################################################
 
+[
+    {
+        '$match': {
+            'mid': 144
+        }
+    }, {
+        '$unwind': {
+            'path': '$agents'
+        }
+    }, {
+        '$lookup': {
+            'from': 'agents', 
+            'localField': 'agents', 
+            'foreignField': 'acode', 
+            'as': 'agent info'
+        }
+    }, {
+        '$project': {
+            'agent': '$agent info'
+        }
+    }, {
+        '$match': {
+            'agent.agent_status': 'active', 
+            'agent.skills.skill_type': 'russian', 
+            'agent.contacts.city': 'London', 
+            'agent.contacts.from_date': {
+                '$gte': '2021-01-01', 
+                '$lte': '2021-12-31'
+            }
+        }
+    }, {
+        '$project': {
+            'acode': '$agent.acode', 
+            'agent type': '$agent.agent_type', 
+            'city': {
+                '$cond': {
+                    'if': {
+                        '$eq': [
+                            '$agent.contacts.to_date', None
+                        ]
+                    }, 
+                    'then': '$agent.contacts.city', 
+                    'else': ''
+                }
+            }
+        }
+    }
+]
 
 14- find all the firearms that are out in the field in a region.
+[
+    {
+        '$match': {
+            'country': 'PL'
+        }
+    }, {
+        '$unwind': {
+            'path': '$assets'
+        }
+    }, {
+        '$lookup': {
+            'from': 'assets', 
+            'localField': 'assets', 
+            'foreignField': 'asid', 
+            'as': 'assets'
+        }
+    }, {
+        '$match': {
+            'assets.asstatus': 'active'
+        }
+    }, {
+        '$project': {
+            'asid': '$assets.asid', 
+            'astype': '$assets.astype', 
+            'asmake': '$assets.asmake'
+        }
+    }
+]

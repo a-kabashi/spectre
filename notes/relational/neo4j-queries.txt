@@ -1,0 +1,40 @@
+1- Retrieve Agent Information
+MATCH (a:Agent{fname:'Sonia'}) RETURN a;
+
+2- List Ongoing Missions
+MATCH (m:missions{mstatus:'ongoing'}) RETURN m.mid;
+
+3- Get Contact Information for a Specific agent
+MATCH (a:Agent{acode:2008})-[:contacts]->(c:agentContacts) RETURN c;
+
+4- List Missions Assigned to a Specific Agent
+MATCH (a:Agent{acode:10})-[p:participatedIn]-(m:missions) RETURN m.mid;
+
+5- Retrieve Completed Missions
+MATCH (m:missions{mstatus:'active'}) RETURN m;
+
+6- Find all missions a specific asset is used for (WA1VMAFE7BD052704)
+MATCH (a:assets{astag:'WA1VMAFE7BD052704'})-[:usedIn]-(m:missions) RETURN m.mid;
+
+7- Count the Number of Missions for Each agent
+MATCH (a:Agent)-[:participatedIn]-(m:missions) RETURN a.acode AS agent, COUNT(m) AS number_of_missions ORDER BY agent ASC;
+
+8- List Agents who are qualified (based on a set of skills) that are suitable for a mission.
+agent who fluent in  mandarin chinese languages, has high skill and knowledge in legal acumen
+#########################################
+MATCH (a:Agent)-[r:has]-(:skill) WHERE r.skill_type IN ['mandarin chinese','legal acumen'] AND r.skill_level > 3  RETURN a.acode;
+
+9- Retrieve Missions Within a Date Range
+MATCH (m:missions) WHERE m.start_date > '2010-01-01' AND m.end_date < '2010-12-31' RETURN m.mid AS missions;
+
+10- Find Assets Assigned to ongoing missions
+
+11-List Missions Involving Multiple Agents
+
+12-find the agent who used a certain secret identity
+
+13-Find all personnel involved in the operation “144” who are currently 'active', speak Russian, and who lived in London in 2021. List their code names in this operation,agent's type as well as their current locations.
+
+
+14-find all the firearms that are out in the field in a region
+
