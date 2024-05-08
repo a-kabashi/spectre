@@ -28,13 +28,21 @@ MATCH (a:Agent)-[r:has]-(:skill) WHERE r.skill_type IN ['mandarin chinese','lega
 MATCH (m:missions) WHERE m.start_date > '2010-01-01' AND m.end_date < '2010-12-31' RETURN m.mid AS missions;
 
 10- Find Assets Assigned to ongoing missions
+MATCH (m:missions{mstatus: 'ongoing'})-[r:usedIn]-(a:assets) RETURN a.asid AS assetId;
 
 11-List Missions Involving Multiple Agents
+MATCH (m:missions)-[r:participatedIn]-(a:Agent) WITH m,COUNT(DISTINCT a.acode) AS agents WHERE agents > 1 RETURN m.mid, agents;
 
 12-find the agent who used a certain secret identity
+MATCH (a:Agent)-[r:HasSid]-(s:SecretIdentities{sid_other_details:'572-334-5595'}) RETURN a.acode AS agentCode;
 
 13-Find all personnel involved in the operation “144” who are currently 'active', speak Russian, and who lived in London in 2021. List their code names in this operation,agent's type as well as their current locations.
-
+MATCH (a:Agent{agent_status: 'active'})-[:participatedIn]-(:missions{mid: 144})
+MATCH (a)-[:has{skill_type: 'russian'}]-(:skill)
+MATCH (a)-[:contacts]-(:agentContacts{city: 'London'})
+MATCH (a)-[:contacts]-(r:agentContacts{to_date: 'null'})
+WITH a,r
+RETURN a.acode, a.agent_type, r.city;
 
 14-find all the firearms that are out in the field in a region
-
+MATCH (m:missions{country: 'PL', mstatus: 'active'})-[r:usedIn]-(a:assets) RETURN a.asid, a.astype, a.asmake;

@@ -1,8 +1,20 @@
 1- Retrieve Agent Information.
-{fname:'Sonia'}
+[
+    {
+        '$match': {
+            'fname': 'Sonia'
+        }
+    }
+]
 
 2- List Ongoing Missions.
-{mstatus:'ongoing'}
+[
+    {
+        '$match': {
+            'mstatus': 'ongoing'
+        }
+    }
+]
 
 3- Get Contact Information for a Specific agent
 [
@@ -31,9 +43,15 @@
 ]
 
 5- Retrieve Completed Missions
-{mstatus: 'completed'}
+[
+    {
+        '$match': {
+            'mstatus': 'completed'
+        }
+    }
+]
 
-6- Find all missions a specific asset is used for.
+6- Find all missions a specific asset is used for. (PlanExecutor error during aggregation :: caused by :: operation exceeded time limit)
 ##########################################################################
 
 [
@@ -78,6 +96,7 @@
 
 8- List Agents who are qualified (based on a set of skills) that are suitable for a mission.
 agent who fluent in  mandarin chinese languages, has high skill and knowledge in legal acumen
+########################################## (check with neo4j)
 
 [
     {
@@ -236,7 +255,8 @@ agent who fluent in  mandarin chinese languages, has high skill and knowledge in
 [
     {
         '$match': {
-            'country': 'PL'
+            'country': 'PL', 
+            'mstatus': 'active'
         }
     }, {
         '$unwind': {
@@ -248,10 +268,6 @@ agent who fluent in  mandarin chinese languages, has high skill and knowledge in
             'localField': 'assets', 
             'foreignField': 'asid', 
             'as': 'assets'
-        }
-    }, {
-        '$match': {
-            'assets.asstatus': 'active'
         }
     }, {
         '$project': {

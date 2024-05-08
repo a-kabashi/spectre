@@ -13,28 +13,20 @@ password = "123456789"
 # Create a connection to the database
 driver = GraphDatabase.driver(uri, auth=(username, password))
 
-
 # Mongodb Connection
 #
 #
 client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
 db = client.Spectre
-agents = db.agents  
 assets = db.assets
-missions = db.missions
-targets = db.targets
 
-
-# Neo4j  
-#
-#   
+# Function for run()
 def run_query(query, para):
     with driver.session() as session:
         result = session.run(query, para)
         return result
-# Mongodb
-#
-#
+		
+# retrieve the data from Mongodb
 docs = assets.find()
 for doc in docs:
     query = '''
@@ -56,8 +48,7 @@ for doc in docs:
                 'astag': doc['astag'],
                 'asstatus': doc['asstatus']
             }
-
     print(run_query(query,para))
-            #print(s)
+	
 driver.close()
 client.close()
