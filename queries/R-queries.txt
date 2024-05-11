@@ -87,4 +87,4 @@ from assets
 inner join used_in on assets.asid = used_in.asid
 inner join missions on used_in.mid = missions.mid
 where missions.country = 'PL'
-and assets.asstatus = 'active'
+and assets.asstatus = 'active';
