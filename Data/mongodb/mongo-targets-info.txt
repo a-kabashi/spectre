@@ -1,0 +1,30 @@
+import pymongo
+from pymongo import MongoClient
+import datetime
+
+# postgres connection
+conn = psycopg2.connect(
+    dbname="spectre",
+    user="postgres",
+    password="123456789",
+    host="localhost",
+    port="5432"
+)
+
+# Mongodb connection
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+targets = db.targets
+
+query = "SELECT * FROM targets"
+cur = conn.cursor()
+cur.execute(query)
+rows = cur.fetchall()
+
+for row in rows:
+    doc = {"tid": row[0], "ttype": row[1], "tdescription": row[2]}
+    targets.insert_one(doc)
+
+cur.close()                                                           
+conn.close()
+client.close()

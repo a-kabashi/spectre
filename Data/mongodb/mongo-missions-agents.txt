@@ -1,0 +1,40 @@
+import psycopg2
+import pymongo
+from pymongo import MongoClient
+import datetime
+
+# postgres connection
+conn = psycopg2.connect(
+    dbname="spectre",
+    user="postgres",
+    password="123456789",
+    host="localhost",
+    port="5432"
+)
+
+# Mongodb connection
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+missions = db.missions
+
+i = 0
+
+while i <= 10000:
+    query = f"SELECT * FROM participate_in where mid = {i}"
+    cur = conn.cursor()
+    cur.execute(query)
+    rows = cur.fetchall()
+    agents = []
+	
+    for row in rows:
+        filter_criteria = {"mid": row[1]}
+        agents.append(row[0])
+		
+    if agents:
+        mission_agents = {"$set": {'agents': agents}}
+        missions.update_one(filter_criteria, mission_agents)
+    i = i+1
+
+cur.close()                                                           
+conn.close()
+client.close()

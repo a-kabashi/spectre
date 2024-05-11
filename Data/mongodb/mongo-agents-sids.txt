@@ -1,0 +1,45 @@
+import psycopg2
+import pymongo
+from pymongo import MongoClient
+import datetime
+
+# postgres connection
+conn = psycopg2.connect(
+    dbname="spectre",
+    user="postgres",
+    password="123456789",
+    host="localhost",
+    port="5432"
+)
+
+# Mongodb connection
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+agents = db.agents
+
+acode = 0
+
+while acode <= 10000:
+    query = f"select * from secret_identities where acode = {acode}"
+    cur = conn.cursor()
+    cur.execute(query)
+    rows = cur.fetchall()
+    sids = []
+	
+    for row in rows:
+        filter_criteria = {"acode": acode}
+        doc = {'sid': row[0], 'sid_type': row[1], 'sid_nationality': row[2], 'sid_other_details': row[3],
+               'sid_status': row[4], 'sid_issue_date': f'{row[5].year}-{row[5].month}-{row[5].day}', 
+               'sid_exp_date': f'{row[6].year}-{row[6].month}-{row[6].day}'
+              }
+        sids.append(doc)
+		
+        if sids:
+            new_sids = {"$set": {'secret_identities': sids}}
+            agents.update_one(filter_criteria, new_sids)
+            
+    acode = acode+1
+    
+cur.close()                                                           
+conn.close()
+client.close()

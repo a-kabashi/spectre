@@ -1,0 +1,42 @@
+import psycopg2
+import pymongo
+from pymongo import MongoClient
+import datetime
+
+# postgres connection
+conn = psycopg2.connect(
+    dbname="spectre",
+    user="postgres",
+    password="123456789",
+    host="localhost",
+    port="5432"
+)
+
+# Mongodb connection
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+agents = db.agents
+
+acode = 0
+
+while acode <= 10000:
+    query = f"select skills.skill_type,skills.skill_level from has inner join skills on has.skill_code = skills.skill_code where has.acode = {acode}"
+    cur = conn.cursor()
+    cur.execute(query)
+    rows = cur.fetchall()
+    skills = []
+	
+    for row in rows:
+        filter_criteria = {"acode": acode}
+        doc = {'skill_type': row[0], 'skill_level': row[1]}
+        skills.append(doc)
+		
+        if skills:
+            new_skills = {"$set": {'skills': skills}}
+            agents.update_one(filter_criteria, new_skills)
+            
+    acode = acode+1
+    
+cur.close()                                                           
+conn.close()
+client.close()

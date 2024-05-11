@@ -1,0 +1,47 @@
+import pymongo
+from pymongo import MongoClient
+from neo4j import GraphDatabase
+
+#Neo4j connection
+#
+#
+#Define the URI, username, and password for your Neo4j database
+uri = "bolt://localhost:7687"
+username = "neo4j"
+password = "123456789"
+
+# Create a connection to the database
+driver = GraphDatabase.driver(uri, auth=(username, password))
+
+
+# Mongodb Connection
+#
+#
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+agents = db.agents  
+
+# Function for run()
+def run_query(query, para):
+    with driver.session() as session:
+        result = session.run(query, para)
+        return result
+		
+# retrieve the data from Mongodb DB
+docs = agents.find()
+
+for document in docs:
+    query = '''MERGE
+                (a:Agent {acode: $acode, fname: $fname, lname: $lname,
+                dob: $dob, gender: $gender, nationality: $nationality,
+                security_level: $security_level, agent_type: $agent_type, agent_status: $agent_status});
+            '''
+    para = {
+            'acode':document['acode'], 'fname': document['fname'], 'lname': document['lname'], 'dob': document['dob'],
+            'gender': document['gender'], 'nationality': document['nationality'],
+            'security_level': document['security_level'], 'agent_type': document['agent_type'], 'agent_status': document['agent_status']
+           }
+    print(run_query(query,para))
+
+driver.close()
+client.close()

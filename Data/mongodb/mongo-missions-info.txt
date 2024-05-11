@@ -1,0 +1,36 @@
+import psycopg2
+import pymongo
+from pymongo import MongoClient
+import datetime
+
+# postgres connection
+conn = psycopg2.connect(
+    dbname="spectre",
+    user="postgres",
+    password="123456789",
+    host="localhost",
+    port="5432"
+)
+
+# Mongodb connection
+client = MongoClient("mongodb+srv://ak:cO861EI5Kpfy6k2R@cluster0.jscsiwg.mongodb.net/")
+db = client.Spectre
+missions = db.missions
+
+query = "SELECT * FROM missions"
+cur = conn.cursor()
+cur.execute(query)
+rows = cur.fetchall()
+
+for row in rows:
+    doc = {
+           'mid': row[0], 'general_description': row[1], 'city': row[2], 'country': row[3], 
+           'start_date': f'{row[4].year}-{row[4].month}-{row[4].day}',
+           'end_date': f'{row[5].year}-{row[5].month}-{row[5].day}',
+           'mstatus': row[6], 'tid': row[7]
+          }
+    missions.insert_one(doc)                                                       
+
+cur.close()                                                           
+conn.close()
+client.close()
